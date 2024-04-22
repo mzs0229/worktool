@@ -1,0 +1,19 @@
+{
+    "code":0,
+    "function":
+    [
+        {
+            "name":"Chat"
+        },
+        {
+            "name":"Mail"
+        },
+        {
+            "name":"Link"
+        },
+        {
+            "name":"Other"
+        }       
+    ],
+    "message":"OK"  
+}

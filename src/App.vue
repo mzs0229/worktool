@@ -1,33 +1,19 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
-import HelloWorld from '@/components/HelloWorld.vue'
+
 
 </script>
 
 <template>
-  <!-- <header>
-    <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
+  
+<RouterView />
+ 
 
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
-      <el-button type="primary">test</el-button>
-      <el-button type="danger">JJJJJ</el-button>
-      <nav>
-        <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
-      </nav>
-    </div>
-  </header> -->
-
-  <!-- <RouterView /> -->
-  <RouterView />
-  <!-- <div>
-    <el-button type="primary">test</el-button>
-    <el-button type="danger">test2</el-button>
-  </div> -->
 </template>
 
-<style scoped>
+<style scoped lang="scss">
+
+
 header {
   line-height: 1.5;
   max-height: 100vh;

@@ -9,6 +9,7 @@ import router from './router'
 // import './assets/main.css'
 import '@/styles/common.scss'
 
+
 // import { getJsonData } from './apis/testAPI'
 import { axiosGetData } from './utils/util'
 
@@ -25,6 +26,7 @@ const getCategoryData = async () =>{
     categoryList.value = res.category
 }
 getCategoryData()
+
 
 
 const app = createApp(App)
