@@ -1,0 +1,84 @@
+{
+    "category": "account",
+    "content": [
+        {
+            "Sub": "",
+            "desc": "",
+            "JP_detail": "",
+            "CN_detail": "",
+            "EN_detail": "XXXXXXXXXXXXXXXXX as provided screenshot in attachment, please help to check and assist, thank you."
+        },
+        {
+            "Sub": "",
+            "desc": "Tag issue verification",
+            "JP_detail": "",
+            "CN_detail": "",
+            "EN_detail": "User provided verification video for the XXXX coin deposit without tag issue, please help to check and assist, thank you."
+        },
+        {
+            "Sub": "",
+            "desc": "P2P APPEAL",
+            "JP_detail": "Cancelled case\norder：XXXXXXX\nuser is buyer , paid but order got cancelled , provide payment evidence screenshot in attachment, please help to check and assist, thank you.",
+            "CN_detail": "",
+            "EN_detail": "Seller not received payment\norder：XXXXXXXX\nuser is seller ,not received the payment, please help to check and assist, thank you."
+        },
+        {
+            "Sub": "",
+            "desc": "Fiat Deposit  Appeal",
+            "JP_detail": "",
+            "CN_detail": "",
+            "EN_detail": "orderID : XXXXXXXXXXXXXXXX\n user report not received above EUR deposit, provided the payment screenshot for reference, please help to check and assist, thank you."
+        },
+        {
+            "Sub": "",
+            "desc": "Campaign reward appeal",
+            "JP_detail": "",
+            "CN_detail": "",
+            "EN_detail": "XXXXXXXXXXXXXXXXXXX\n\nUser appeal for the rewards of above event, please help to check and assist, thank you."
+        },
+     
+        {
+            "Sub": "",
+            "desc": "KYC failed",
+            "JP_detail": "",
+            "CN_detail": "",
+            "EN_detail": "user failed KYC lv1 , please help to check and assist, thank you."
+        },
+        {
+            "Sub": "",
+            "desc": "ETH Smart contract deposit",
+            "JP_detail": "",
+            "CN_detail": "",
+            "EN_detail": "user deposit ETH via smart contract as below , please help to check and assist, thank you.\nXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+        },
+    
+        {
+            "Sub": "",
+            "desc": "card binding issue",
+            "JP_detail": "",
+            "CN_detail": "",
+            "EN_detail": "user tried to bind card No.:XXXXXXXXXXX , but encounter error message that we unable to support this card due to technical issue, please help to check and assist, thank you. "
+        },
+        {
+            "Sub": "",
+            "desc": "Pending translation",
+            "JP_detail": "",
+            "CN_detail": "",
+            "EN_detail": "Dear XX agent , please help to translate below content to user, thank you.\n ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n XXXXXXXXXXXXXXX "
+        },
+        {
+            "Sub": "",
+            "desc": "Data Export",
+            "JP_detail": "",
+            "CN_detail": "",
+            "EN_detail": "Dear TechOps, please help to export the following data.请协助导出以下数据。\nUID：\nData Type 数据类型：\nDate Range 日期范围：\nContract Type：合约类型：\nTrading Pair 交易对：\nRemarks备注：：user hold large number records，please help to assist, thank you. "
+        },
+        {
+            "Sub": "",
+            "desc": "",
+            "JP_detail": "",
+            "CN_detail": "",
+            "EN_detail": ""
+            }
+    ]
+}

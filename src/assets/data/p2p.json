@@ -1,0 +1,54 @@
+{
+    "category": "deposit",
+    "content": [
+        {
+            "Sub": "P2P",
+            "desc": "P2P Appeal",
+            "JP_detail": "恐れ入りますが、P2P取引画面にあるチャットウィンドウで申し立ての書類を提出しましたでしょうか？ ",
+            "EN_detail":"Have you submitted the  Appeal related documents into the chat window of the P2P trading?",
+            "CN_detail":"请问您在P2P交易的聊天窗口提交申诉资料了吗？"
+        },
+        {
+            "Sub": "P2P",
+            "desc": "P2P紹介",
+            "JP_detail": "P2P取引はBYBIT利用者個人間で暗号通貨の売買になります。決済方法は銀行振込、LINE Payなどご選択できます。P2Pの取引に関して、支払い済みのボタンを押した後、販売者のコインがロックされますので、安心して取引いただけます。支払い期限内に支払い完了のボタンを押さないと、取引は自動的にキャンセルされます。\n支払い完了の場合、コインの受け取りまたは返金されるまで、必ず注文をキャンセルしないでください。\nP2P取引のお問い合わせの場合、先に注文IDと支払い状況をご教示ください。\n支払い済みの場合、証明資料のスクリーンショットをご提示ください。 ",
+            "CN_detail":"P2P交易是BYBIT用户之间买卖加密货币。您可以选择银行转帐等付款方式。对于P2P交易，按下支付完成按钮后，卖家的币将被锁定，您可以放心交易。如果您未在付款期限内按下付款完成按钮，交易将自动取消。如果付款已完成，请在收到币或退款之前务必不要取消订单。",
+            "EN_detail":"P2P trading is the buying and selling of cryptocurrencies between BYBIT users. You can choose a payment method such as bank transfer or other payment methods. \nFor P2P transactions, after pressing the payment completed button, the seller's coins will be locked, so you can trade with confidence. \nIf you do not press the payment completion button within the payment period, the transaction will be automatically canceled. \nIn case of successful payment, please do not cancel the order until the coins have been released or you get the refunded of your payment. "
+        },
+        {
+            "Sub": "P2P",
+            "desc": "P2P CS ",
+            "JP_detail": "弊社のP2Pチームにお客様のP2P申立ての案件を順番に処理いたしますので、連絡までしばらくお待ちください。ご理解とご協力のほどよろしくお願いします。 ",
+            "EN_detail":"please be noticed that our P2P team will handle your appeal case. Please wait our P2P team's contact in patience. Thank you for your understanding and sorry for any inconvenience caused.",
+            "CN_detail":"感谢您的合作，我们的P2P团队会尽快查看您的申诉.我们的P2P团队是按申诉的先后顺序处理申诉,请您耐心等待联络,感谢您的理解。"
+        },
+        {
+            "Sub": "P2P",
+            "desc": "P2P Appeal",
+            "JP_detail": "",
+            "EN_detail":"Apologise that our P2P team facing large number of appeal cases, Please help to wait our P2P team's contact in patience. Thank you for your understanding .",
+            "CN_detail":"很抱歉让您久等，我们的P2P团队目前面临较多申诉案件，请您耐心等待我们相关团队的回复"
+        },
+        {
+            "Sub": "P2P",
+            "desc": "P2P",
+            "JP_detail": "申し訳ございませんが、P2P に関する申し立ては当社の P2P チームが対応する必要があります。お客様の個人情報とアカウント情報のセキュリティ上の考慮事項に基づいて、ライブチャットエージェントはP2P 取引へのアクセスと操作権限が制御されています。ご理解とご協力をお願いいたします。",
+            "CN_detail": "很抱歉，您的P2P申诉需要我们的P2P团队进行处理，基于用户个人信息以及账户信息的安全考量，在线客服这边对P2P交易的查阅，操作的权限是受到管制的，感谢您的理解和合作。",
+            "EN_detail": "Sorry, your P2P complaint needs to be handled by our P2P team. Based on the security considerations of users’ personal information and account information, the online customer service’s access to P2P transactions and operation permissions are controlled. Thank you for your understanding and cooperation. ."
+        },
+        
+      
+       
+        {
+            "Sub": "P2P",
+            "desc": "P2P Advertiser",
+            "JP_detail": "以下の条件を満たせば、P2P広告主となって広告を掲載でUSDTコインを販売できます\n\n1. ニックネームを変更する\n2. 携帯電話番号をリンクする\n3. メールアドレスをリンクする\n4. 資金調達アカウントの総残高が100 USDT価額（全てのコインの種類を含む）以上であることをご確認ください。\n5. 個別の KYC を確認します。要件: レベル 1\n6. P2P注文数\n    a.30 日以内の買い注文数 ≥ 5\n    b.取引相手の数 ≥ 3 "
+        },
+        {
+            "Sub": "P2P",
+            "desc": "P2P申告方法",
+            "JP_detail": "取引画面一番上のところに「申請を送る」ボタンがございます。販売者側のコインのリリース期限が終了した後、そのボタンでP2P取引の申告手続きを依頼できますので、ご確認ください。 "
+        }
+      
+    ]
+}

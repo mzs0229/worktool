@@ -1,0 +1,118 @@
+{
+    "category": "SUI",
+    "content": [
+        {
+            "Sub": "",
+            "desc": "",
+            "JP_detail": "",
+            "JP_link": "",
+            "CN_detail": "请问您有收到邮件里提到的需要回复的邮件吗？",
+            "CN_link": "",
+            "EN_detail": "May I know you received the mail which need to be replied before 28 Apr or not ?",
+            "EN_link": ""
+        },
+        {
+            "Sub": "",
+            "desc": "",
+            "JP_detail": "",
+            "JP_link": "",
+            "CN_detail": "您能提供一下邮件截图吗？您可以点击回形针图表来上传截图，谢谢。",
+            "CN_link": "",
+            "EN_detail": "",
+            "EN_link": ""
+        },
+        {
+            "Sub": "",
+            "desc": "",
+            "JP_detail": "",
+            "JP_link": "",
+            "CN_detail": "请问您通过什么链接，填写了什么邮箱和UID，以及什么时间填写提交的？",
+            "CN_link": "",
+            "EN_detail": "",
+            "EN_link": ""
+        },
+        {
+            "Sub": "",
+            "desc": "",
+            "JP_detail": "",
+            "JP_link": "",
+            "CN_detail": "感谢您的信息， 关于您的SUI申购资格，请允许我向BYBIT的相关部门进一步确认，然后在24小时（工作日期间）/48小时（跨休息日）之内以邮件的方式向您的账户注册邮件进行回复。我们会尽快的联系您，感谢您的理解和合作",
+            "CN_link": "",
+            "EN_detail": "",
+            "EN_link": ""
+        },
+        {
+            "Sub": "Pool2",
+            "desc": "escalate",
+            "JP_detail": "",
+            "JP_link": "",
+            "CN_detail": "明白了您的问询，我会尽快转交您的案件到相关团队做进一步确认，您也可以直接回复该邮件并询问是否可以恢复申购资格",
+            "CN_link": "",
+            "EN_detail": "understood your concern, for your SUI subscription issue, Please allow me some time to check with our relevant team and we will let you know via email within 24 hours weekdays /48 hours weekends. Thank you for your understanding and sorry for any inconvenience caused.",
+            "EN_link": ""
+        },
+        {
+            "Sub": "Pool2",
+            "desc": "escalate",
+            "JP_detail": "",
+            "JP_link": "",
+            "CN_detail": "非常感谢您的理解，请允许我关闭在线聊天去移交您的案件",
+            "CN_link": "",
+            "EN_detail": "Please allow me to close your chat to proceed with the escalation with your case. thank you.",
+            "EN_link": ""
+        },
+        {
+            "Sub": "Pool2",
+            "desc": "Internal memo",
+            "JP_detail": "",
+            "JP_link": "",
+            "CN_detail": "",
+            "CN_link": "",
+            "EN_detail": "User got notice mail that lost the SUI subscription eligibility , ask for if able to recover the eligibility, please help to check and assist, thank you.",
+            "EN_link": ""
+        },
+        {
+            "Sub": "Pool2",
+            "desc": "Internal memo",
+            "JP_detail": "",
+            "JP_link": "",
+            "CN_detail": "",
+            "CN_link": "",
+            "EN_detail": "user report submit the information for SUI whitelist on 22 Apr, but not reflected, please help to check and assist, thank you.\nMail:   XXXXX\nUID:  XXXX",
+            "EN_link": ""
+        },
+        {
+            "Sub": "Pool2",
+            "desc": "Internal memo",
+            "JP_detail": "",
+            "JP_link": "",
+            "CN_detail": "",
+            "CN_link": "",
+            "EN_detail": "",
+            "EN_link": ""
+        },
+        {
+            "Sub": "Pool2",
+            "desc": "Internal memo",
+            "JP_detail": "",
+            "JP_link": "",
+            "CN_detail": "",
+            "CN_link": "",
+            "EN_detail": "",
+            "EN_link": ""
+        },
+        {
+            "Sub": "Pool2",
+            "desc": "Internal memo",
+            "JP_detail": "",
+            "JP_link": "",
+            "CN_detail": "",
+            "CN_link": "",
+            "EN_detail": "",
+            "EN_link": ""
+        }
+        
+      
+  
+    ]
+}

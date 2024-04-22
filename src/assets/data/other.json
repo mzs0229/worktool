@@ -1,0 +1,81 @@
+{
+    "category":"other",
+    "content":
+    [
+      
+        {
+            "desc":"Macスクリーンショット取り方",
+            "JP_detail":"スクリーンショットを撮るには、「shift」「command」「3」の 3 つのキーを同時に長押しします。 画面の隅にサムネールが表示されたら、そのサムネールをクリックして、スクリーンショットを編集します。 または、しばらくすると、スクリーンショットがデスクトップに保存されます。"
+        },
+        {
+            "desc":"Winスクリーンショット取り方",
+            "JP_detail":"[Windows]キー＋[PrintScreen]キーを同時に押すとスクリーンショットが撮れます。\n1．保存したい画面で、[Windows]キー＋[PrintScreen]キーを同時に押します。\n※ノートPCなどで[PrintScreen]キーが単体でない方は、[Windows]キー＋[Fn]キー＋[Prt Scr]キーの3つを同時に押してください。\n2．「エクスプローラー」→「PC」→「ピクチャ」の順にクリックして、「スクリーンショット」のファイルフォルダを開くと、スクリーンショットが自動で保存されています。"
+        },
+        {
+            "desc":"アフィリエイト",
+            "JP_detail":"ご自身のアフィリエイトIDは、こちらのアフィリエイトページよりご確認いただけます。\naffiliates.bybit.com"
+        },
+        {
+            "desc":"税金申告",
+            "JP_detail":"お住まいの法域によっては、所在される国の法律に基づいて出金と利益が課税対象となる可能性があります。当社では各国の税金に関する法律は把握しておりませんので、税金に関して助言を提供する立場ではありません。お住いの国の税務専門家に助言を求めることをお勧めします。"
+        },
+        {
+            "desc":"Incognito",
+            "JP_detail":"パソコンで Chrome を開きます。\n右上のその他アイコン その他 次に [シークレット ウィンドウを開く] をクリックします。\n新しいウィンドウが表示されます。上部の隅にシークレット アイコン シークレット があれば、シークレット モードになっています。\nキーボード ショートカットを使ってシークレット ウィンドウを開くこともできます。\nWindows、Linux、Chrome OS の場合: Ctrl+Shift+n キーを押します。\nMac の場合: ⌘+shift+n キーを押します。\nシークレット ウィンドウと通常の Chrome ウィンドウは切り替えて使用することができます。シークレット ウィンドウを使用しているときにのみ、シークレット ブラウジングとなります。"
+        },
+        {
+            "desc":"通訳注意",
+            "JP_detail":"１）never ever use 暗号 to refer to crypto in general / e.g. 暗号取引２）avoid using トレーダー・ユーザー when referring to our own users, use お客様 or 参加者３）claim when used in context of rewards should be 受け取る instead of 請求４）trading volume is kept consistent as 取引高　not 取引量"
+        },
+        {
+            "desc":"Help Center",
+            "JP_link":"https://www.bybit.com/ja-JP/help-center/?language=ja"
+        },
+        {
+            "desc":"confirm the SF case status",
+            "JP_detail":"Hi, May I check SF XXXXXXXXX can be mark as solved or not , thank you."
+        },
+
+        {
+            "desc": "委託運用",
+            "JP_detail": "Bybitでは新たなアカウントタイプである委託運用サブアカウントが導入され、資産管理のためにプロフェッショナルな取引チームに依頼し、資金を任せたいという投資家のニーズに応えます。",
+            "JP_link":"https://www.bybit.com/ja-JP/help-center/bybitHC_Article?language=ja&id=000001683",
+            "CN_detail":"",
+            "CN_link":"",
+            "EN_detail":"",
+            "EN_link":""
+
+        },
+        {
+            "desc": "HAR File",
+            "JP_detail": "",
+            "JP_link":"https://www.bybit.com/en-US/help-center/bybitHC_Article?language=en_US&id=000001129",
+            "CN_detail":"",
+            "CN_link":"",
+            "EN_detail":"",
+            "EN_link":""
+
+        },
+        {
+            "desc": "Fraud/Scam",
+            "JP_detail": "Bybitを装ったSMSが多く確認されています。\n当社はいかなる場合においても、お客様にSMSでご連絡差し上げることはありません。\nこのようなSMSを受信した場合、本文に記載されたURLは絶対に開かず削除していただきますようお願い申し上げます。",
+            "JP_link":"",
+            "CN_detail":"",
+            "CN_link":"",
+            "EN_detail":"",
+            "EN_link":""
+
+        },
+        {
+            "desc": "",
+            "JP_detail": "",
+            "JP_link":"",
+            "CN_detail":"",
+            "CN_link":"",
+            "EN_detail":"",
+            "EN_link":""
+
+        }
+     
+    ]
+}

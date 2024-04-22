@@ -1,0 +1,119 @@
+{
+    "category": "KYC",
+    "content": [
+        {
+            "Sub": "KYC",
+            "desc": " KYCfailed",
+            "JP_detail": "恐れ入りますが、お客様のKYC　lv２失敗に関して、何かの通知メールは届いてましたでしょうか",
+            "JP_link": "",
+            "CN_detail": "关于您的KYC认证失败，您有收到什么失败原因的通知邮件吗？如果您对审核有异议，建议您使用下面的链接，并阐述您的理由，要求重新审核。\nhttps://www.bybit.com/zh-MY/help-center/s/webform",
+            "CN_link": "",
+            "EN_detail": "We are aware that the KYC review is taking longer than usual. The review duration could take up to 48 hours due to a large number of KYC submissions. Please try to check the KYC status again later.",
+            "EN_link": ""
+        },
+        {
+            "Sub": "KYC",
+            "desc": "Internal memo",
+            "JP_detail": "User may forgot the KYC passed account, please help to check and assist, thank you.",
+            "CN_detail": "",
+            "EN_detail": "user failed KYC lv1/2 , please help to check and assist, thank you.\n XXXXXXXXXXXXX"
+        },
+        {
+            "Sub": "",
+            "desc": "Multiple account",
+            "JP_detail": "恐れ入りますが、お客様は他のメールアドレスまた携帯番号をお持ちますでしょうか。アカウントの登録有無を確認させていただきます。",
+            "CN_detail": "",
+            "EN_detail": ""
+        },
+        {
+            "Sub": "",
+            "desc": "Account merge",
+            "JP_detail": "恐れ入りますが、現在BYBITはまだ異なるアカウントの統合をサポートしておりません。KYC通過済みのアカウントをご利用し続けるようにお願いします。",
+            "CN_detail": "请问您是来在哪个国家或地区的用户？",
+            "EN_detail": ""
+        },
+        {
+            "Sub": "",
+            "desc": "KYC difference",
+            "JP_detail": "本人確認レベル１に通過いただければ、特にサービスの利用は影響されませせんので、ご安心ください。\n各本人確認（KYC）レベルが利用できるサービスに関して、下記の記事にご参照ください。\nhttps://www.bybit.com/ja-JP/help-center/s/article/Benefits-of-Different-KYC-Levels ",
+            "CN_detail": "",
+            "EN_detail": ""
+        },
+        {
+            "Sub": "",
+            "desc": "KYC notification mail",
+            "JP_detail": "恐れ入りますが、お客様のKYC認証失敗に関する通知メールが届きましたでしょうか?",
+            "CN_detail": "请问您是否收到任何关于您的 KYC 失败的通知邮件？",
+            "EN_detail": "have you received any notification mail about your KYC failure?"
+        },
+        {
+            "Sub": "",
+            "desc": "KYC appeal",
+            "JP_detail": "ご提出の書類はKYC認証の要件を全て満たしていますでしょうか。",
+            "CN_detail": "请问您提交的文件满足我们KYC验证的所有要求吗？",
+            "EN_detail": "Do your document meet all the KYC verification requirement ?"
+        },
+    
+        {
+            "Sub": "",
+            "desc": "KYC appeal",
+            "JP_detail": "長くお待ちいただき、お詫びを申し上げます。本件関連部署での対応となりますため、こちらから早めに処理するようにリマインドさせていただきます。",
+            "CN_detail": "我们的KYC团队目前面临较多的问询， 请您耐心等待相关团队的回复，感谢您的理解。",
+            "EN_detail": "thank you for your understanding. please help to wait the update of your appeal from our KYC team."
+        },
+        {
+            "Sub": "",
+            "desc": "KYC appeal",
+            "JP_detail": "恐れ入りますが、KYC審査に異議ありの場合は、以下のリンクを使用して理由を説明し、再審査をリクエストすることをお勧めします。 https://www.bybit.com/ja-JP/help-center/s/webform?state=41",
+            "CN_detail": "基于客户账户信息保护，在线客服不能访问到您的本人确认资料,如果您对审核有异议，建议您使用下面的链接，并阐述您的理由，要求重新审核。 https://www.bybit.com/zh-MY/help-center/s/webform?state=41",
+            "EN_detail": "Due to personal information protection, live chat agent has no access to check your documents details.If you disagree with the KYC verification result, please help to raise a review request by using the link below and explaining your reasons. https://www.bybit.com/en-US/help-center/s/webform?state=41"
+        },
+        {
+            "Sub": "KYC",
+            "desc": "KYC",
+            "JP_detail": "恐れ入りますが、個人情報保護のため、ライブチャットエージェントはお客様の本人確認資料の詳細を直接確認できかねます。本人確認手続きが不備になった場合、弊社の関連チームから案内の通知メールが送信されますので、そのメールに直接ご返信ください。",
+            "JP_link": "",
+            "CN_detail": "基于客户账户信息保护，在线客服不能访问到您的本人确认资料，如果您的本人确认手续未能通过，我们的相关团队会给您发送通知邮件，您可以通过回复该邮件来确认您的本人身份验证的详情，感谢您的理解。",
+            "CN_link": "",
+            "EN_detail": "Due to personal information security, live chat is not available to check trader's documents, Please allow me some time to check with relevant team and we will let you know via email within 24 hours weekdays /48 hours weekends. Thank you for your understanding and sorry for any inconvenience caused.",
+            "EN_link": ""
+        },
+        {
+            "Sub": "",
+            "desc": "KYC review access",
+            "JP_detail": "恐れ入りますが、個人情報保護のため、お客様の KYC 認証は、当社の KYC チームにより検証させていただきます。当社の KYC チームからの返答をお待ちください。",
+            "CN_detail": "很抱歉，基于用户信息保护，您的KYC验证只能被我们的KYC团队进行验证和状态更改，请您耐心等待我们KYC团队的回复",
+            "EN_detail": "Apologise that for personal information protection, your KYC verification can only be verified by our KYC team, please wait patiently for our KYC team's reply"
+        },
+        {
+            "Sub": "",
+            "desc": "KYC follow up",
+            "JP_detail": "恐れ入りますが、お客様のKYC認証に関して、関連チームに確認させていただきます。後ほどアカウントにご登録済のメールアドレスにメールでご連絡させていただいてもよろしいでしょうか。",
+            "JP_link": "",
+            "CN_detail": "关于您的KYC认证， 请允许我向BYBIT的相关部门进一步确认，然后在24小时（工作日期间）/48小时（跨休息日）之内以邮件的方式向您的账户注册邮件进行回复。我们会尽快的联系您，感谢您的理解和合作。",
+            "CN_link": "",
+            "EN_detail": "Apologise that for your KYC verification,　Please allow me some time to check with our relevant team and we will let you know via email within 24 hours weekdays /48 hours weekends. Thank you for your understanding and sorry for any inconvenience caused.",
+            "EN_link": ""
+        },
+        {
+            "Sub": "",
+            "desc": "KYC deletion",
+            "JP_detail": "",
+            "JP_link": "",
+            "CN_detail": " ",
+            "CN_link": "",
+            "EN_detail": "We totally understand your concern. However, as a financial institution, Bybit is unable to delete our trader's account as we need to keep the trade record to facilitate any future dispute and security purpose to perform due diligence with the regulator if any. Please allow us to assure you that Bybit has a strict protocol to safeguard your personal information and we will not disclose your personal data to any external parties unless it is required by any legal authorities. For more information, please kindly refer to Bybit Privacy Policy. ",
+            "EN_link": ""
+        },
+        {
+            "Sub": "Home",
+            "desc": "App KYC進めない",
+            "JP_detail": "Bybitアプリに携帯のカメラ権限をつけていないが原因と存じます.\niOSの場合、「設定」のところに、Bybitのアプリを探して、カメラの権限をつけてから、再度KYCの手続きをお試しください。"
+        },
+        {
+            "Sub": "Home",
+            "desc": "App KYC",
+            "JP_detail": "アプリの下部メニューの「ホーム」→左上人間マークー＞「本人確認」のところに手続きを進めてください。"
+        }
+    ]
+}

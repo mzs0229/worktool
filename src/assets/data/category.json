@@ -1,0 +1,65 @@
+{
+    "code":0,
+    "category":
+    [
+        {
+            "name":"Common"
+        },
+        {
+            "name":"Account"
+        },
+        {
+            "name":"KYC"
+        },
+       
+        {
+            "name":"2FA"
+        },
+        {
+            "name":"Deposit"
+        },
+        {
+            "name":"P2P"
+        },
+        {
+            "name":"Withdraw"
+        },
+        {
+            "name":"Trading"
+        },
+        {
+            "name":"SF Escalate"
+        },
+        {
+            "name":"Mail"
+        },
+       
+        {
+            "name":"Mobile App"
+        },
+        {
+            "name":"PC"
+        },
+        {
+            "name":"SUI"
+        },
+        {
+            "name":"ByFi"
+        },
+        {
+            "name":"MT4"
+        },
+       
+        {
+            "name":"Lark Inquiry"
+        },
+        {
+            "name":"ADA BOT"
+        },
+        {
+            "name":"Other"
+        }
+       
+    ],
+    "message":"OK"  
+}

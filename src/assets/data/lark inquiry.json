@@ -1,0 +1,54 @@
+{
+    "category":"larkinquiry",
+    "content":
+    [
+        {
+            "desc":"General Inquiry",
+            "JP_detail":"UID: XXXXXXXX\nSF: XXXXXXX\nInquiry: XXXXXXXXXXXXXXXXXXXXX, \nplease help to check and assist, thank you."
+        },
+        {
+            "desc":"JP Coverage",
+            "JP_detail":"[Thanks]@All -  If anyone gets an JP chat, please transfer to me (Zen) or without asking, for our JP coverage! If I'm maxed out, Buzz us please. "
+        },
+        {
+            "desc":"KYC failed",
+            "JP_detail":"UID:     \nSF:     \nInquiry:user KYC lv1 failed, please help to check and assist.thank you."
+        },
+       
+        {
+            "desc":"WithdrawBanned",
+            "JP_detail":"UID:　XXXXX\nSF:　XXXXXXXX \ndescription: 无ga治理，绑定ga后解封\nInquiry:user bound GA, please help lift withdraw ban . "
+        },
+        {
+            "Sub": "P2P",
+            "desc": "P2P Escalate Buyer",
+            "JP_detail": "ORDERID: XXXXXXXXXXXXXXXXX (Buyer)"
+        },
+        {
+            "Sub": "P2P",
+            "desc": "P2P Escalate buyer ",
+            "JP_detail": "UID:  xxxxxxxxxxx buyer\nSF:  xxxxxxxxxxxx\nORDERID: XXXXXXXXXXXXXXXXX \n Buyer paid not received coin, provided payment documents,\n please help to assist, thank you."
+        },
+        {
+            "Sub": "P2P",
+            "desc": "P2P Escalate Seller",
+            "JP_detail": "ORDERID: XXXXXXXXXXXXXXXXX (Seller)"
+        },
+       
+        {
+            "Sub": "P2P",
+            "desc": "P2P Escalate Seller ",
+            "JP_detail": "UID:  xxxxxxxxxxx seller\nSF:  xxxxxxxxxxxx\nORDERID: XXXXXXXXXXXXXXXXX \n Seller not received payment, please help to assist, thank you."
+        },
+        {
+            "desc":"WithdrawBanned",
+            "JP_detail":"  1. Common Scenario 1: Maintain restriction + initial deposit already withdrawn -------> 0140\n2. Common Scenario 2: Maintain restriction + withdrawal is less than initial deposit -------> 0130\n3. Common Scenario 3: Can unban after KYC -------> 0160"
+        },
+       
+        {
+            "desc":"VIP",
+            "JP_detail":"Please take note the following correct format of posting.\nNot the SF ticket number but the URL + whether trader is a VIP or not\nUID:\nSF Ticket URL:\nCampaign URL (if any):\nInquiry:\nVIP: Y/N\nTag respective RM based on language:\nEN - Hilda\nJP - Yuko\nKR - Ken\nRU - Maksim\nCN - Kevin (Yu)\n"
+        }
+      
+    ]
+}

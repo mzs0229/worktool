@@ -1,0 +1,84 @@
+{
+    "category": "account",
+    "content": [
+        {
+            "Sub": "Account",
+            "desc": "Account Delete",
+            "JP_detail": "恐れ入りますが、アカウントのセキュリティーのため、ライブチャットでは登録済みのメールアドレスを変更できかねますので、ご了承下さい。アカウントの削除またアドレス変更に関して、どうぞ下記のリンクにより、ケースを提出いただくように御願いします。\nhttps://www.bybit.com/ja-JP/help-center/s/webform",
+            "JP_link": "https://www.bybit.com/ja-JP_detail/help-center/bybitHC_Article?language=ja&id=000001023",
+            "CN_detail": "出于账户安全考虑 ，在线聊天没有权限更改您的BYBIT账户的注册邮箱或者手机号码。 您可以通过链接 https://www.bybit.com/zh-MY/help-center/s/webform 提出要求更改账户信息的请求，谢谢。",
+            "CN_link": "test",
+            "EN_detail": "Due to account security , live chat agent is not able to change the account register mail for your BYBIT account. you may raise a case to request to change the mail address with link https://www.bybit.com/en-US/help-center/s/webform ,thank you.",
+            "EN_link": "test"
+        },
+        {
+            "Sub": "Account",
+            "desc": "複数アカウント",
+            "JP_detail": "確認したところ、UID XXXXXXXXのアカウンに資産は入っていないようですが、他のアカウントをお持ちますでしょうか。",
+            "EN_detail": 8
+
+        },
+        {
+            "Sub": "Mobile change ",
+            "desc": "Mobile change",
+            "JP_detail": "恐れ入りますが、登録済みの携帯番号は削除をサポートしておりませんので、ご了承ください。\nもしその番号をご利用したい場合、先にBYBITに使用していない携帯番号を用意して、携帯番号を登録したアカウントにログインして、番号の変更手続きをしてください。\n変更した後に、前に登録済みの携帯番号を他のアカウントにご利用できます。",
+            "EN_detail": ""
+
+        },
+        {
+            "Sub": "Account",
+            "desc": "複数アカウントKYC",
+            "JP_detail": "恐れ入りますが、Bybitではお客様おひとり様につき１アカウントのみ本人確認が可能です。複数のアカウントをお持ちで、ひとつのアカウントで本人確認が完了した場合、別のアカウントでは本人確認手続きができなくなりますので、ご了承ください。",
+            "EN_detail": "BYBIT only allow one account to proceed KYC verification for one client.\nIf one account passed KYC, new created account will not able to do KYC verification with same ID information.",
+            "CN_detail":"BYBIT只允许同样的ID证件为一个BYBIT账户进行KYC验证。 如果一个账户通过了KYC，新创建的账户将无法使用相同的ID信息进行KYC验证。"
+        },
+        {
+            "Sub": "Account",
+            "desc": "Account　ログイン制限",
+            "JP_detail": "恐れ入りますが、アカウントのログイン情報を繰り返し間違った場合、アカウントのセキュリティため、一時的にログイン制限が入られますので、ご了承ください。ログインに関して、時間を経てから、再度お試しください。その際にまだログインできない場合、パスワードリセットもご検討してください。"
+        },
+        {
+            "Sub": "Account",
+            "desc": "Account　ログイン制限時間",
+            "JP_detail": "2段階認証の場合、制限されてから12時間後にシステムに自動的に解除されます。時間を経てから、再度ログインをお試しください。その際にまだログインできない場合、ライブチャットにお越しください。"
+        },
+        {
+            "Sub": "Account",
+            "desc": "China User",
+            "JP_detail": "",
+            "CN_detail": "很抱歉，BYBIT目前不向中国大陆地区的用户提供服务，感谢您的谅解。 https://www.bybit.com/zh-MY/help-center/s/article/Service-Restricted-Countries\n请参阅上面的文章以获取更多信息。\n感谢您的理解和谅解。\n尊敬的Bybit用户，请问还有什么别的我可以帮您的吗？",
+            "EN_detail": "15"
+            },
+        
+        
+        {
+            "Sub": "Account",
+            "desc": "PW変更",
+            "JP_detail": "パスワードのリセットはログイン画面に「パスワードをお忘れの方」をクリックして、お進みできます。"
+        },
+        {
+            "Sub": "Account",
+            "desc": "Pattern PW",
+            "JP_detail": "パターンパスワードとは、点と点を線で結んで形を作り、それをパスワードとして使用するものです。これを設定すると、スマホアプリを開いた時に毎回パターン認証が求められます。",
+            "EN_detail":"to"
+        },
+        {
+            "Sub": "Account",
+            "desc": "Bind Mail",
+            "JP_detail": "Bybitでは資産出金の際にメール認証が必要となりますので、今後のご利用いただくために、メールアドレスもご登録お願いします。"
+        },
+        
+        {
+            "Sub": "Service Restricted",
+            "desc": "Service Restricted",
+            "JP_detail": "",
+            "EN_detail":"Please notice that Bybit is not available to provide service to some restricted countries and areas. \nYou may encounter IP restricted error message when you try to register or login from a restricted location.\nFor more details , you may refer to below link,\nhttps://www.bybit.com/en-US/help-center/bybitHC_Article?language=en_US&id=000001085"
+        },
+        
+        {
+            "Sub": "History",
+            "desc": "Account現物入出金履歴",
+            "JP_detail": "恐れ入りますが、アカウントの入出金履歴に関して、どうぞ下記のリンクにより、ケースを提出いただくように御願いします。Bybitアカウントに関して、ログイン、本人確認(KYC)およびその他のリクエスト→データのダウンロードを申請をご選択してください。\nhttps://www.bybit.com/ja-JP/help-center/pages/s/webform"
+        }
+    ]
+}

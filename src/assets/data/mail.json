@@ -1,0 +1,150 @@
+{
+    "category": "mail",
+    "content": [
+      
+        {
+            "desc": "Subject",
+            "JP_detail": "[Bybit] お客様のケース番号はこちらです： #{{{Case.CaseNumber}}}",
+            "CN_detail":"[Bybit] 您的工单号 #{{{Case.CaseNumber}}}",
+            "EN_detail":"[Bybit] Your case number is #{{{Case.CaseNumber}}}"
+        },
+        {
+            "desc": "Follow up no reply",
+            "JP_detail": "\n大変恐縮ですが、チャットが途中で途切れてしまいましたようですが、一度チャットを閉じさせていただきます。\nお客様の問題が解決されていない場合、このメールに詳細をご返信ください。\nまたは下記のリンクにより、チケットを作成して頂き、お問合せの詳細情報をご提示ください。\nhttps://www.bybit.com/ja-JP/help-center/s/webform ",
+            "CN_detail":"\n关于以下您今天通过BYBIT在线聊天进行的询问，由于长时间没有收到您的回馈，请允许我们通过邮件来对您进行协助。\n\n请问您的问题是否已经解决，如未解决，  请您提供相关的截图供我们的工作人员进行进一步的确认。 \n\n如果您还有其它咨询，欢迎再次与我们联系，我们会尽力协助您。",
+            "EN_detail":"\nDue to not hear from you for long time during the live chat, please allow us to close the chat from our side.\n\nIf your issue is not solved, please help to provide more details or relevant screenshots for our further checking.\n\nyou may also raise a case to indicate your issue with link below, thank you.\n\nhttps://www.bybit.com/en-US/help-center/s/webform \n\nPlease do not hesitate to contact us again should you require any assistance. Thank you."
+        },
+        {
+            "desc": "disconnected",
+            "JP_detail": "恐れ入りますが、お客様の以下の問い合わせに関して、チャットが途中で途切れてしまいましたため、ご連絡させていただきます。\n「XXXXXXXXXXXXX」\n\nご不明な点がございましたら、ライブチャットまた本メールにご返信いただき、ご連絡お願いします。\n\n\n\n\n\n\n大変恐縮ですが、チャットが途中で途切れてしまいましたようですが、一度チャットを閉じさせていただきます。\n\nお客様の問題が解決されていない場合、このメールに詳細をご返信ください。\n\nまたは下記のリンクにより、チケットを作成して頂き、お問合せの詳細情報をご提示ください。\n\n https://www.bybit.com/ja-JP/help-center/s/webform \n",
+            "CN_detail":"关于以下您今天通过BYBIT在线聊天进行的询问,由于在线聊天中途异常中断，请允许我们通过邮件来对您进行协助。\n\n【XXXXXXXXXXXXXXXXXXX】\n请问您的问题是否已经解决，如未解决，  请您提供相关的截图供我们的工作人员进行进一步的确认。 \n\n如果您还有其它咨询，欢迎再次与我们联系，我们会尽力协助您。",
+            "EN_detail":"Thank you for contacting Bybit Customer Support.\n\nDue to the live chat disconnected accidentally, please allow us to contact you through email .\n\nIf your issue is not solved, please help to provide more details or relevant screenshots for our further checking.\n\nyou may also raise a case to indicate your issue with link below, thank you.\n\nhttps://www.bybit.com/en-US/help-center/s/webform \n\nPlease do not hesitate to contact us again should you require any assistance. Thank you.\nWith warmest regards,"
+        },
+        {
+            "desc": "DSAT",
+            "JP_detail": "ライブチャットにお越しいただきましたがお客様からの満足度が良くないことを確認致しました。この度は、チャットにて何かしらの不手際がありましたこととお察しいたします。お越しいただいたにも関わらず、お役に立てず誠に申し訳ございませんでした。\n\nお客様からのご意見や改善すべき点などがございましたら、ぜひこちらのメールにご返信ください。お客様のご意見を真摯に受け止め、チャットエージェント並びに、チャットサポートの質向上のため努めて参ります。\n\nさらにご不明な点がございましたら、お気軽にお問い合わせください。\n\n今後ともBybitをご愛顧くださいますよう、何卒よろしくお願いいたします。",
+            "CN_detail":"我们确认到您之前对我们的实时聊天的体验并不令您满意。如果聊天过程中出现任何管理不悦的情况，我们深表歉意。\n如果您有任何改进意见或建议，请随时回复此电子邮件。我们将认真对待您的意见，并将尽最大努力提高我们的聊天服务质量，包括负责聊天的代理的质量。",
+            "EN_detail":"We acknowledged that your previous experience with our live chat was not satisfactory. We sincerely apologise if there was any mismanagement during the chat.\n\n If you have any comments or suggestions for improvement, please feel free to reply to this e-mail. We take your comments seriously and will do our best to improve the quality of our chat service including the agent in charge of the chat."
+        },
+        {
+            "desc": "Screen Recording",
+            "JP_detail": "もし不具合が発生した場合、どうぞお客様の設定操作の詳細を録画して頂き、こちらに確認させて頂きます。\n録画の手順に関して、こちらにお記事にご参照ください。\nhttps://www.bybit.com/ja-JP/help-center/s/article/Steps-on-how-to-do-screen-recording-on-various-devices-how-to-send-it-to-Bybit ",
+            "EN_detail":"could you help to do a screen record of your issue and send it to support@bybit.com for further checking.   You may refer to below link for how to make screen recording,\nhttps://www.bybit.com/en-US/help-center/s/article/Steps-on-how-to-do-screen-recording-on-various-devices-how-to-send-it-to-Bybit"
+        },
+        {
+            "desc": "Follow up",
+            "JP_detail": "恐れ入りますが、お客様の以下の問い合わせに関して、ご連絡させていただきます。\n\n「XXXXXXXXXXXXX」\n\nご不明な点がございましたら、ライブチャットまた本メールにご返信いただき、ご連絡お願いします。",
+            "CN_detail":"关于以下您今天通过BYBIT在线聊天进行的询问，由于在线聊天中途异常中断，请允许我们通过邮件来对您进行协助。\n【XXXXXXXXXXXXXXXXXXX】\n​​​​​\n​请问您的问题是否已经解决，如未解决， ​​​​​​​请您提供相关的截图供我们的工作人员进行进一步的确认。 \n\n",
+            "EN_detail":" Pertaining to your below inquiry,\n【XXXXXXXXXXXX】\nCould you help to provide more details or relevant screenshots for our further checking."
+        },
+      
+        {
+            "desc": "Escalate notify",
+            "JP_detail": "ご連絡いただき、誠にありがとうございます。\n\nお客様のXXXXXXの件に関して、関連チームに確認させて頂きます。\n\n連絡までしばらくお待ちください。\n\n\n\n書類をご提出して頂き、誠にありがとうございます。\n関連チームに共有させて頂き、確認次第、メール経由でアップデートさせて頂きます。\n連絡までしばらくお待ちください。"
+        },
+      
+        {
+            "desc": "No JP_detail",
+            "JP_detail": "\n恐れ入りますが、お客様の以下の問い合わせに関して、詳細を伺わせていただけますでしょうか。\n\n「XXXXXXXXXXXXX」\n\n可能であれば、関連のスクリーンショットをご提示いただければ、確認させていただきます。\nご不明な点がございましたら、ライブチャットまた本メールにご返信いただき、ご連絡お願いします。"
+        },
+        
+        {
+            "Sub": "",
+            "desc": "Issue Solove",
+            "JP_detail": "\nお客様の問題が解決になり、何よりでございます。  \n他にご不明な点がございましたら、ライブチャットまた本メールにご返信いただき、再度ご連絡お願いします",
+            "CN_detail": "\n我们很高兴您的问题已得到解决。 \n如果您有任何其他问题，请通过回复实时聊天或此电子邮件再次与我们联系。",
+            "EN_detail": "\nWe are glad that your issue has been resolved. \nIf you have any other questions, please contact us again via live chat or replying to this email.Thank you. "
+        },
+        {
+            "Sub": "Different Account mail address",
+            "desc": "Diff mail",
+            "JP_detail": "恐れ入りますが、ご利用いただいたメールはBYBITアカウントを検索できませんでした。\nお手数ですが、アカウント情報のセキュリティのため、BYBITアカウントに登録したメールアドレスで、もう一度お問い合わせをご送信してください。",
+            "CN_detail": "非常抱歉，我们无法使用您使用的电子邮件和BYBIT帐户相匹配。\n请您使用您的BYBIT账户注册邮箱再次发送您的问询。",
+            "EN_detail": "Apologist that we unable to match your BYBIT account with the email you used. \nPlease help to send the details of your inquiry one more time through your BYBIT account registration mail."
+        },
+        {
+            "desc": "empty Web form",
+            "JP_detail": "お客様の問い合わせを受領したしました。\n\n恐縮ですが、問い合わせの内容が空白のため、詳細を確認できませんでした。\n\nご質問の詳細を伺わせていただけますでしょうか 。 可能であれば、関連のスクリーンショットをご提示いただければ、確認させていただきます。\nご不明な点がございましたら、ライブチャットまた本メールにご返信いただき、ご連絡お願いします。 \nどうぞよろしくお願い致します。",
+            "EN_detail":"Kindly help to indicate more details or provide the relevant screenshots of your issue to allow us support you further.\nPlease do not hesitate to contact us again should you require any assistance. Thank you.",
+            "CN_detail":"关于您的问询，麻烦您提供更多详细信息，以便我们为您提供进一步支持。如果您需要任何帮助，请随时再次联系我们。谢谢。"
+        },
+        {
+            "desc": "Data export over 2 year",
+            "JP_detail": "恐れ入りますが、BYBITのデータエクスポート機能は直近二年間までしかデータをエクスポートできかねます。\nご希望の期間が二年間超えた場合、データエクスポートの目的をご教示していただき、関連チームに確認させていただきます",
+            "EN_detail":"Please notice that the data export function is only support to up to last 2 years.\nIf your requested period over 2 years, please clarify the purpose for our relevant team  to assist you further."
+        },
+       
+        {
+            "desc": "Zero Asset",
+            "JP_detail": "確認したところ、*********で開設したアカウントに資産履歴はございません。\n\nお客様は他のBYBITアカウントをお持ちますでしょうかをご確認いただくようにお願いします。\n資産のあるアカウントを確認希望の場合、前に入金したトランザクションの詳細をご提示いただき、こちらに確認させて頂きます。"
+        },
+        {
+            "desc": "ログイン通知メール",
+            "JP_detail": "恐れ入りますが、アカウントのログイン通知メールが届いたでしょうか。\nメールに記載された時間はUTC時間になりますので、ご了承ください。\n\n 日本時間に変換するには、さらに9時間を足して、再度ご確認お願いします。"
+        },
+        {
+            "desc": "Fraud",
+            "JP_detail": "まず、Bybit チーム全体を代表して、お客様の現在状況に対して心からの共感を表明させていただきます。\nお問い合わせに関しては、この潜在的な異常な活動に関して地元当局に警察に通報するか、法執行機関に通報してください。 \n \nBybit は、当社の利用規約に従って法執行機関に支援を提供します。 \n\n必要に応じて以下の措置を講じてください。\n\n 法執行機関に事件を報告する\n\n(a) お客様の事件に関して警察に報告書を提出します。\n\n(b) 地元の警察当局と緊密に連携してください。 \n警察官に、law_enforcement@bybit.com 宛てに電子メールを送信するようアドバイスしてください。できるだけ早く対応いたします。\n\n(c) 警察官から当社に連絡があった場合、当社は利用規約に従って法執行機関に支援を提供します。\n\n\n当社はセーシェルの法律にも拘束されており、適切な手続きが整備されている場合には可能な限り法的要請に応じたいと考えていることにご留意ください。\nご協力ありがとうございました。 \nさらにサポートが必要な場合は、お気軽にお問い合わせください。\n  \nどうぞよろしくお願い致します。"
+        },
+       
+        {
+            "Sub": "HAR File",
+            "desc": "HAR file request",
+            "JP_detail": "恐れ入りますが、お客様の問題をさらに確認するため、ご利用のブラウザのHARファイルをご提示いただけますでしょうか。\nHARファイルの確保する方法に関して、下記の記事にご参照ください。\nhttps://www.bybit.com/ja-JP/help-center/s/article/How-to-obtain-HAR-File-from-the-Web-Browser \nお手数ですが、どうぞよろしくお願い致します。",
+            "CN_detail": "请帮忙再试一次，如果问题仍然存在，/为进一步确认您的问题，请您提供您浏览器的HAR文件以供我们进一步检查。您可以参考以下链接获取HAR文件.\nhttps://www.bybit.com/zh-MY/help-center/s/article/How-to-obtain-HAR-File-from-the-Web-Browser",
+            "EN_detail": "Kindly help to try one more time , if the issue still existing , please help to provide your browser's HAR file  for our further checking .\nyou may refer to below link for how to obtain HAR file,\nhttps://www.bybit.com/en-US/help-center/s/article/How-to-obtain-HAR-File-from-the-Web-Browser"
+        },
+
+      
+        {
+            "desc": "対応遅く",
+            "JP_detail": "Bybitカスタマーサポートをご利用いただきありがとうございます。\n\nお客様の問い合わせに対応が遅くなり、お詫びを申し上げます。\n確認したところ、XXXXXXXXXXXXXXXXXXXX\n\nお手数ですが、アカウントにログインいただき、ご確認のほどよろしくお願いします。\nご不明な点がございましたら、ライブチャットまた本メールにご返信いただき、ご連絡お願いします。\nどうぞよろしくお願いします。"
+        },
+        {
+            "desc": "Mail End",
+            "JP_detail": "ご不明な点がございましたら、ライブチャットまた本メールにご返信いただき、ご連絡お願いします。\nどうぞよろしくお願いします。"
+        },
+        
+
+        {
+            "desc": "not find trade ID",
+            "JP_detail": "",
+            "EN_detail":"Dear Trader,\n\nThank you for contacting Bybit Customer Support.\nWe had difficulties trying to locate your order via the screenshot submitted.\nPlease send us the Order No. of the affected orders and we will look into this for you. \nOrder No for USDT Derivatives can be found from here:\nhttps://www.bybit.com/user/assets/order/all-orders/usdt\nInverse Perpetual contracts from here:\nhttps://www.bybit.com/user/assets/order/all-orders/inverse\n\nThank you.",
+            "CN_detail":""
+        },
+        {
+            "desc": "CAST bad point",
+            "JP_detail": "ライブチャットにお越しいただきましたがお客様からの満足度が良くない点数であることを確認致しました。この度は、チャットにて何かしらの不手際がありましたこととお察しいたします。せっかくお越しいただきましたのにお役に立てず大変申し訳ございませんでした。\nお客様からのご意見、改善して欲しい点などございましたら、ぜひこのメールにてご返信くださいますようお願い申し上げます。お客様のご意見を真摯に受け止めさせていただき、チャットエージェント並びに、チャットの質を向上できますように努めさせていただきたく存じます。\n\nご不明な点がございましたら、お気軽にお問い合わせください。\n\n今後ともBybitをご愛顧くださいますようどうぞよろしくお願いします。"
+        },
+        {
+            "desc": "SOL0.06",
+            "JP_detail": "Bybitカスタマーサポートをご利用いただきありがとうございます。\n恐れ入りますが、お問い合わせを確認したところ、アカウントに疑わしいアクティビティはなく、心当たりのないSOL入金によるハッキングなどのリスクは無いと存じます。\nただし、アカウントのセキュリティを強化するために、ユーザーには常にメールアカウントとBybitアカウントの両方をGoogle認証システムで保護することをお勧めします。\nBybitアカウントをさらに保護するには、このFAQ を参照してください。\nhttps://help.bybit.com/hc/ja/articles/900000075486\nまた、弊社ではSOL入金に関する情報を入手したり、取引を管理したりすることができないため、本送金の詳細については、送信元サポートにお問い合わせいただくことをお勧めいたします。\nご不明な点がございましたら、お気軽にお問い合わせください。"
+        },
+      
+        {
+            "desc": "WithdrawBanned，可提本金",
+            "JP_detail": "関連チームの確認により、お客様のアカウントは当社利用規約およびボーナス利用規約に違反したことを判明しました。\nそのため、ボーナスの獲得リクエストは丁寧に拒否させていただきます。 アカウントは通常どおり、引き続きご利用できます。\n\nBybitの利用規約とボーナス利用規約に違反したアカウントに対して、出金制限が発生する可能性がございます。 \nその場合、トレーダーは合計預金額を超えない出金額のみが許可されます。\n\nこの決定は最終的なものであり、この件に関してこれ以上申し立てを行うことはありません。\nこの件について即時の遵守をお願いいたします。"
+        },
+        {
+            "desc": "法人KYC書類不備",
+            "JP_detail": "Bybitコンプライアンスチームにお問い合わせいただきありがとうございます。\n恐れ入りますが、確認したところ、ご提出いただいた書類が一部不足していることがわかりました。\n法人KYCを続行する場合は、下記の書類をご提出いただくようにお願いします。\nXXXXXXXX\nXXXXXXXX\nご連絡をお待ちしております。どうぞよろしくお願い致します。"
+        },
+        {
+            "desc": "法人KYC",
+            "JP_detail": "お客様のご状況をご説明いただき、ありがとうございます。確認の結果、最大保有者の文書について以下の文書を提供していただく必要があることをご報告いたします。\n定款\n株主名簿および役員名簿\n会社の株式25%、またはそれ以上を保有している実質的支配者（UBO）の住民票およびパスポート/ID（パスポート/ID、住民票は3か月以内のもの）\n同時に、登録会社XXXXXXXXXXXXX株式会社の最高株式を示す株主名簿および役員名簿（組織図）をご提供ください."
+        },
+        {
+            "desc": "Screen recording",
+            "JP_detail": "PC、Mac、AndroidまたはiPhoneで画面記録を実行する方法については、次の記事をご参照ください。 https://www.bybit.com/ja-JP/help-center/bybitHC_Article?id=900000199166&language=ja\n入金証拠ビデオのサンプルは、こちらをご参照ください。https://bit.ly/DepositProof \nGoogleドライブを利用してビデオをアップロードする方法は、こちらをご参照ください。 http://bit.ly/GDriveURL \nWe Transferを利用してビデオをアップロードする方法は、こちらをご参照ください。 http://bit.ly/WeTransferURL \n\nご連絡をお待ちしております。どうぞよろしくお願い致します。"
+        },
+        {
+            "desc": "GA Reset",
+            "JP_detail": "大切なお客様\n\nBybitカスタマーサポートをご利用いただきありがとうございます。\n\n回復キーフレーズを紛失した場合でも、新しくリリースされたセルフサービスGoogle2段階紐付け解除を使用して、Google認証をご自身で紐付け解除ができますが、SMSのコード、メールのコード両方を受領できないでしょうか？問題のご詳細をいただけますでしょうか？一度、紐付け解除をお試しください。その際に、SMSで届くコード、メールで届くコードをお入れください。\n\nご自身で紐付け解除を続行するには：\n\n1. バイビットのウェブサイトにログインします。メールアドレスまたは電話番号そしてパスワードを入力します。次に、「続行」をクリックして次のページに進みます。\n\n2. 次に、[Google認証システムを利用できませんか？]をクリックしてください\n\n3. 確認コードがお使いのメールアドレス/携帯電話番号に送信されます。コードを入力して「確認」をクリックしてください。正しいコードを入力すると、二段階認証システムがオフになります。\n\nどうぞよろしくお願い致します。"
+        },
+        {
+            "desc": "カード決済",
+            "JP_detail": "お客様はご本人様の名義のカードを利用していますでしょうか\nカード名義がご本人様の名義と完全に一致していますでしょうか"
+        }
+       
+    ]
+}

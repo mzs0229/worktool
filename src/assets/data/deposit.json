@@ -1,0 +1,96 @@
+{
+    "category": "deposit",
+    "content": [
+        {
+            "Sub": "Credit Card",
+            "desc": "カード番号入力",
+            "JP_detail": "恐れ入りますが、キーボードを半角英数字にしてお試しください。"
+        },
+        {
+            "Sub": "Credit Card",
+            "desc": "card high risk",
+            "JP_detail": "恐れ入りますが、アカウントセキュリティのため、ライブチャットエージェントはお客様のクレジット利用制限の詳細を確認できかねますので、どうぞ届いた通知メールをご確認いただき、ご返信ください。 "
+        },
+       
+        {
+            "Sub": "LaunchPad",
+            "desc": "Commit",
+            "JP_detail": "ローンチパットのコミットは現物アカウントにBITまたUSDT資産資産を保有する必要があります。もし資産がコミットに足りなければ、先に振替して頂き、再度お試しください。 "
+        },
+        { "Sub": "Lauch Pad",
+            "desc": "日次平均\nウォレット残高",
+            "JP_detail": "日次平均ウォレット残高とは何ですか？\n5日間にわたって、お客様の現物アカウント、デリバティブアカウント及び資産運用アカウントにあるBIT残高を1時間毎に計算し、スナップショットとして記録します。 一日ごとのスナップショットは、翌日の12:00（日本時間）に更新されます。 例えば、日本時間で10月29日05:30に山田さんがBybitに登録し、日本時間の06:00から09:00まで1時間ごとに100 BITを現物アカウントに入金したとしましょう。1時間ごとの残高スナップショットは、06:00に100 BIT、07:00に200 BITで08:00に300 BITとなります。この場合、山田さんの10月29日の日次平均BIT残高は、25 BIT※となります。 ※[(100 + 200 + 300)÷24] = 25 10月30日の日本時間12:00頃に山田さんは、10月29日の日次平均BIT残高（現物アカウント）が25 BITであることを確認できます。"
+        },
+        { "Sub": "Lauch Pad",
+            "desc": "ローンチパッドのコミット",
+            "JP_detail": "ローンチパッドのコミットに関して、資産を現物アカウントに保有する必要ございます。先にBITまたUSDTを現物アカウントに振替してから、再度コミットにお試しください。"
+        },
+        {
+            "Sub": "Crypto",
+            "desc": "Wong Tag Deposit",
+            "JP_detail": "恐れ入りますが、お客様のXXXXXXXXXXXX 入金に関して、タグ情報が記入不備により、アカウントに反映していません。\nお手数ですが、どうぞ下記のリンクで、資産回収のリクエストをお出しください。\nhttps://www.bybit.com/ja-JP/help-center/s/webform \n\n資産回収に関して、いくつかの検証手続きが必要となりますので、資産回収のリクエストを送信完了後、関連チームの連絡までしばらくお待ちください。\nご協力の程よろしくお願いします。"
+        },
+        {
+            "Sub": "Crypto",
+            "desc": "Smart Contract",
+            "JP_detail": "確認をしたところ、ETHの入金がまだBybitで確認できないのは、スマートコントラクトでの送金だったためです。Bybitでは、スマートコントラクト方式での入金は自動処理されません。資産が回収できるかどうかを関連部署にて確認させていただき、平日24時間以内、週末48時間以内にメールでご連絡させていただきます。\nBybitで取引するためにETHを緊急に使用する必要がある場合は、新たにETHの直接送金で入金することをご検討ください。"
+        },
+      
+        {"Sub": "Shared Address",
+            "desc": "共有アドレス",
+            "JP_detail": "[XRP] : rJn2zAPdFA193sixJwuFixRkYDUtx3apQh \n[XLM] : GDT7ARDYZRBXXYOCSQ3MUMISTITSSRWZI6KR2A5L5Q3KB4QIZHGYMTIH\n     [XYM] : NBBPI4VHOYDE2ALKZSCGSXJODAJS3S6LYG3N6XI\n[XEM] : NCDZDXLTPSSHGWDGBWCNC67GDM7VU6ZQM4KJLXWZ\nHBAR : 0.0.615422\n[RUNE] : bnb10pwltlzxtq6a9j9yw5sdc7gwjl523cq5yjm7cr \n[EOS] : bybitdeposit \n  "
+        },
+       
+        {
+            "Sub": "JCB",
+            "desc": "JCB Maintenance",
+            "JP_detail": "恐れ入りますが、JCBカードには対応しておりません。日本円で暗号通貨の購入をご希望の場合、VISAカードかMasterカード、またはP2P取引をご検討いただくようにお願いします。",
+            "JP_link": "",
+            "CN_detail": "",
+            "CN_link": "",
+            "EN_detail": "",
+            "EN_link": ""
+        },
+        {
+            "Sub": "Echeck",
+            "desc": " Echeck  Suspend",
+            "JP_detail": "現在Echeckによる入金サービスは一時停止しております。具体的なサービス再開の目処はたっておりません。銀行振り込みでUSDT購入をご希望の場合、P2P取引をご検討ください。",
+            "JP_link": "",
+            "CN_detail": "",
+            "CN_link": "",
+            "EN_detail": "",
+            "EN_link": ""
+        },
+       
+        {
+            "Sub": "Third Party",
+            "desc": "Echeck",
+            "JP_detail": "Echeck社はBybitの決済サービスプロバイダーのため、Bybit側では決済の詳細情報を確認できかねますので、直接Echeck社側までお問い合わせいただけますでしょうか。\n連絡先は下記のリンクに掲載していますので、ご確認ください。https://e-check.online/"
+        },
+        {
+            "Sub": "Third Party",
+            "desc": "Mercuryo",
+            "JP_detail": "Mercuryo社はBybitの決済サービスプロバイダーのため、Bybit側では決済の詳細情報を確認できかねますので、直接Mercuryo社側までお問い合わせいただけますでしょうか。\n連絡先は下記のリンクに掲載していますので、support@mercuryo.ioまでご確認ください。https://mercuryo.io/"
+        },
+        {
+            "Sub": "Third Party",
+            "ID": "02",
+            "desc": "Onramp",
+            "JP_detail": "Onramp社はBybitの決済サービスプロバイダーのため、Bybit側では決済の詳細情報を確認できかねますので、直接Onramp社側までお問い合わせいただけますでしょうか。\n連絡先は下記のリンクに掲載していますので、ご確認ください。https://onrampwallet.com/#contact/"
+        },
+        {
+            "Sub": "Third Party",
+            "desc": "Simplex",
+            "JP_detail": "Simplex社はBybitの決済サービスプロバイダーのため、Bybit側では決済の詳細情報を確認できかねますので、直接Simplex社側までお問い合わせいただけますでしょうか。\n連絡先は下記のリンクに掲載していますので、ご確認ください。https://support.simplex.com/hc/en-gb"
+        },
+        {
+            "Sub": "Third Party",
+            "desc": "Other Payment Provider",
+            "JP_detail": "XXXXXXX社はBybitの決済サービスプロバイダーのため、Bybit側では決済の詳細情報を確認できかねますので、直接XXXXXXX社側までお問い合わせいただけますでしょうか。\n連絡先は下記のリンクに掲載していますので、ご確認ください。XXXXXXXXXXXXXXX"
+        },
+        {
+            "desc": "UID B",
+            "JP_detail": "テンプレート4080"
+        }
+    ]
+}

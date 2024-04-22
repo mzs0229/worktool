@@ -1,0 +1,25 @@
+{
+    "category": "app",
+    "content": [
+        {
+            "Sub": "Deposit",
+            "desc": "PC入金アドレス確認",
+            "JP_detail": "下記のリンクにアクセスいただき、検索欄でご入金希望のコインを検索してください。\nhttps://www.bybit.com/user/assets/home\n 検索後に表示されたコインの右側に「入金する」ボタンをクリックして、サポートしているチェーンタイプと入金用アドレスを表示していますので、ご確認ください。"
+        },
+        {
+            "Sub": "AirDrop",
+            "desc": "エアードロップ",
+            "JP_detail": "PCの場合、下記のリンクで、「その他」、タイプに「エアードロップ」を選択して、検索してください。\nhttps://www.bybit.com/user/assets/records/trade-spot/other\nアプリの場合、下部メニューの「資産」＞＞上のメニューの「現物」をタップして、資産履歴にエアードロップで検索してください。"
+        },
+        {
+            "Sub": "Transfer",
+            "desc": "PC資産振替",
+            "JP_detail": "資産振替に関して、どうぞこちらのリンクをアクセスしていただき、 https://www.bybit.com/user/assets/home 左側の「振り替える」ボタンをクリックし、ポップアップしてきた画面に振込元、振込先アカウントと通貨を選択して、数量を入力してから、お試しください。"
+        },
+        {
+            "Sub": "Fiat Display",
+            "desc": "資産を円表示",
+            "JP_detail": "PCの場合：こちらのリンク　https://www.bybit.com/app/user/settings　アクセスいただき、「相当する通貨」を日本円に変えてみてください。"
+        }
+    ]
+}

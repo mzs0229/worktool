@@ -1,0 +1,129 @@
+{
+    "category": "withdraw",
+    "content": [
+        {
+            "Sub": "Withdraw",
+            "desc": "withdraw処理中",
+            "JP_detail": "確認したところ、お客様の出金はすでに処理されているところです。反映までしばらくお待ちください。"
+        },
+        {
+            "Sub": "Withdraw",
+            "desc": "Withdraw restricted",
+            "JP_detail": "出金機能が制限された事に関する通知メールは届いてましたでしょうか?",
+            "CN_detail": "关于您的提现限制，您有收到什么通知邮件吗？",
+            "EN_detail": "Have you received any notification emails about your withdrawal limitation?"
+            },
+        {
+            "Sub": "Withdraw",
+            "desc": "withdraw fee",
+            "JP_detail": "手数料は出金のコインとチェーンにより異なります。出金依頼ページに詳細手数料を掲示していますので、ご確認ください",
+            "CN_detail": "费用根据提款币种和链的不同而有所不同。详细费用已在提款请求页面上公布，请查看。",
+            "EN_detail": "Fees vary depending on the coin and chain of withdrawal. Detailed fees are posted on the withdrawal request page,  please have a check."
+            },
+        {
+            "Sub": "Withdraw",
+            "desc": "Check network",
+            "JP_detail": "暗号通貨の送金に関して、アドレスまたネットワークを間違うと、資産が永遠に失う可能性がございますので、十分ご注意下さい。送金手続きをする前に、送金先のサポートしているチェーンをご確認した上にお進みするようにお勧めします。",
+            "CN_detail": "提现加密货币时请注意如果您输入了错误的地址或网络（链），您可能会永远失去您的资产。我们建议您在进行提币申请之前先确认您的提币地址的收款方支持的网络（链）。",
+            "EN_detail": "Please be careful when sending cryptocurrency,  if you enter wrong address or network（chain type), you may lose your assets forever. We recommend that you check the  supported  network(chain) with the withdraw destination side before proceeding with the withdraw request."
+        },
+        {
+            "Sub": "Withdraw",
+            "desc": "PW&2FAリセット",
+            "JP_detail": "恐れ入りますが、アカウントセキュリティーのため、パスワードがリセットまた2段階認証を無効化をした後24時間以内出金できかねますので、ご了承ください。\nお手数ですが、時間が経ってから、再度出金依頼の手続きをお試していただくようにお願いします。",
+            "EN_detail": "For account security reason, once you reset the GA or account login password, there will be 24 hours limitation with the withdrawal. Please retry 24 hours later since the GA or PW reset.",
+            "CN_detail": "很抱歉，基于账户的资产安全考量，变更密码或者谷歌验证，24小时之内提币会受到限制，请您理解.请您在24小时之后再次尝试提币。"
+        },
+        {
+            "Sub": "Withdraw",
+            "desc": "withdraw 完了",
+            "JP_detail": "\nお客様の出金は確認させて頂きました。出金は正常に行われていることは確認できました。\n\n下記のリンクにより、ご確認できます。\n\n暗号資産の送金に関してですが、出金元は既に資産がなく、出金を払い戻しすることができかねますため、送金先に着金していない場合、トランザクションハッシュ（TXID）：XXXXXXXXXXXXXXXXXを送付先のカスタマーサポートにご提示いただき、ご確認御願いいたします。",
+            "EN_detail": "Confirmed your crypto asset withdrawal was processed successfully as your request.Please notice that crypto transaction once processed, it is not available to be refunded or cancelled.If you not received the asset , you may provide the transaction hash:XXXXXXXXXXXXXXXXXXXXXXX to your withdraw destination side for further checking .",
+            "CN_detal": ""
+        },
+        {
+            "Sub": "Withdraw",
+            "desc": "ブロック確認不足",
+            "JP_detail": "恐れ入りますが、お客様のが出金希望の資産は本日入金したばかりの資産、またはその資産から両替した資産でしょうか。\nお客様のXXXX 資産は本日入金した XXXの売りで受け取ったでしょうか。 XXX入金のブロックチェーン上のブロック確認はまだ少ないのが原因です。もう少し時間を経ってから、再度XXXXの出金をお試しください。"
+        },
+        {
+            "Sub": "Withdraw",
+            "desc": "withdraw",
+            "JP_detail": "恐れ入りますが、現在出金は資金調達アカウント経由に変わりましたので、ご了承ください。先に出金希望の資産を資金調達アカウントに振替していただき、再度出金の手続きをお試しください。",
+            "EN_detail": "Please transfer your asset to your funding account and retry the withdraw request.",
+            "CN_detail": "目前提币已变更至通过资金账户申请提现操作，请您将您的资产转移到您的资金账户然后再次尝试提币申请。"
+        },
+        {
+            "Sub": "Withdraw",
+            "desc": "withdraw Ban No 2FA",
+            "JP_detail": "確認したところ、お客様のアカウントは2段階認証が有効化されていないですが、先に2段階認証を設定いただくようにお願いします。その後、下記のリンクをアクセスしていただき、ウェブフォームで、出金制限の解除を依頼いただくようにお願いします。\nhttps://www.bybit.com/ja-JP/help-center/s/webform \n2段階認証の設定にお関して、こちらの記事にご参照ください。\nhttps://www.bybit.com/ja-JP/help-center/bybitHC_Article?language=ja&id=000001021"
+        },
+        {
+            "Sub": "Withdraw",
+            "desc": "withdraw Ban No 2FA",
+            "JP_detail": " 出金制限されたのは2段階認証を設定していなかったと存じます。現在設定完了のため、関連チームに出金解除を依頼します。後ほどアカウントにご登録済のメールアドレスにメールでご連絡させていただいてもよろしいでしょうか。"
+        },
+        {
+            "Sub": "Withdraw",
+            "desc": "withdraw２FA",
+            "JP_detail": "恐れ入りますが、お客様のGoogle認証アプリにBYBIT用のコードは複数個ありますでしょうか。"
+        },
+        {
+            "Sub": "Withdraw",
+            "desc": "withdraw Mail Code",
+            "JP_detail": "メール認証コードを繰り返し発行した場合、認証エラーにつながりしやすいので、お手数ですが5分後に再度出金の手続きをお試しいただけますでしょうか。"
+        },
+        
+        {
+            "Sub": "Withdraw",
+            "desc": "withdrawブロック",
+            "JP_detail": "ブロックチェーン上の確認完了の意味でございます。ご安心ください。 出金は既に処理済みと存じます。出金履歴にご確認下さい。"
+        },
+       
+        {
+            "Sub": "Withdraw",
+            "desc": "withdraw in JPY",
+            "JP_detail": "恐れ入りますが、現在Bybitでは暗号通貨を直接日本円に売却できかねますので、ご了承ください。\nもし日本円に売却希望であればどうぞ保有しているコインを法定通貨に両替できる取引所に先に出金していただき、その後に日本円に両替してください。\nお手数ですが、どうぞ「日本円をサポートする暗号通貨取引所」でネットにご検索していただくように御願いします。"
+        },
+        {
+            "Sub": "Withdraw",
+            "desc": "withdraw一時停止",
+            "JP_detail": "恐れ入りますが、現在XXXXXの出金は一時停止しております。\nご不便をかけしておりますが、復旧に関して、まだ明確な日にちの目処がたっておりませんのでお急ぎの場合は他のコインに変え、他のブロックチェーンでの送金をご検討くださいませんか"
+        },
+        {
+            "Sub": "Withdraw",
+            "desc": "SOL withdraw一時停止",
+            "JP_detail": "恐れ入りますが、現在SOLチェーンの出金は一時停止しております。\nご不便をかけしておりますが、復旧に関して、まだ明確な日にちの目処がたっておりませんのでお急ぎの場合は他のコインに変え、他のブロックチェーンでの送金をご検討くださいませんか。この問題はSOLチェーン全体の問題でございますので、他の取引所に関しましても出金を完全に再開していないところが多く、BybitもSOLチェーンの問題が解決されればすぐに出金を再開させていただきます。"
+        },
+        {
+            "Sub": "Withdraw",
+            "desc": "withdrawbanned lift After KYC",
+            "JP_detail": "Bybitカスタマーサポートをご利用いただきありがとうございます。\n表題の件でご連絡しております。この度は調査に時間を要しお客様へのご連絡が遅くなりましたことをお詫び申し上げます。すでに関連部署から返信がされているかとは存じ上げますが、調査の結果、安全な出金のため、お客様が本人確認を行って頂きました場合に、出金制限を解除できることとなりました。\n\nお手数ですがBybitの本人確認から行って頂き、完了後、メールでご返信頂きたく存じ上げます。その後、出金制限の手続きをさせて頂きます。\n PCの場合：https://www.bybit.com/user/accounts/auth/personal\nアプリの場合：ホーム＞左上人マーク＞本人確認（KYC）\n\nどうぞよろしくお願い致します。"
+        },
+        {
+            "Sub": "Withdraw",
+            "desc": "WithdrawBanned Notice",
+            "JP_detail": "恐れ入りますが、お客様の出金制限に関して、何か通知メールは届いてませんか。"
+        },
+        {
+            "Sub": "Withdraw",
+            "desc": "WithdrawBanned Reply",
+            "JP_detail": "恐れ入りますが、アカウントセキュリティのため、ライブチャットエージェントはお客様の出金制限の詳細を確認できかねますので、どうぞ届いた通知メールにご返信頂き、ご確認いただけますでしょうか。"
+        },
+        {
+            "Sub": "Withdraw",
+            "desc": "WithdrawBanned Confirm",
+            "JP_detail": "恐れ入りますが、アカウントセキュリティのため、ライブチャットエージェントはお客様の出金制限の詳細を確認できかねますので、どうぞ弊社のサポートメールsupport-jp@bybit.comまで、メールでご確認お願いします。"
+        },
+        {
+            "Sub": "Withdraw",
+            "desc": "Withdraw Banned",
+            "JP_detail": "Bybitカスタマーサポートをご利用いただきありがとうございます。\n弊社のチームはお客様の懸念を理解しており、お客様の資金の出金をサポートさせていただきたく存じ上げます。\nお客様の状況は通常の手続きとは異なるため、セキュリティチームは、https://www.bybit.com/user/accounts/auth/personal を介して本人確認の認証を完了いただきますようご協力をお願いします。\nアカウントの本人確認認証が完了次第、手続きを進めさせていただきます。\nご不明な点がございましたら、お気軽にお問い合わせください。"
+        },
+        {
+            "Sub": "Withdraw",
+            "desc": "Withdraw Recovered",
+            "JP_detail": "Bybitカスタマーサポートをご利用いただきありがとうございます。\n恐れ入りますが、関連チームがお客様のアカウント状況を確認させていただきました。現在出金機能が既に有効になったことをお知らせします。\nお手数ですが、アカウントにログインいただき、ご確認ください。\n尚、Bybitは常にお客様のアカウントを安全に保つ必要があります。\n疑わしいアクティビティが検出された場合は、お客様のご理解とご協力を求める場合がございますので、ご了承下さい。\nご不明な点がございましたら、お気軽にお問い合わせください。\nどうぞよろしくお願い致します。"
+        }
+    ]
+}

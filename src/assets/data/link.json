@@ -1,0 +1,173 @@
+{
+    "category":"link",
+   
+    "link": [
+        
+        {
+            "desc": "delete account",
+            "detail": "2080a"
+        },
+        {
+            "desc": "unbind GA",
+            "detail": "3020"
+        },
+        {
+            "desc": "export data",
+            "detail": "2471"
+        },
+        {
+            "desc": "export asking",
+            "detail": "2470"
+        },
+        {
+            "desc": "export reply",
+            "detail": "2480"
+        },
+        {
+            "desc": "deposit without tag",
+            "detail": "4030"
+        },
+        {
+            "desc": "Derivative Balance Change",
+            "detail": "https://www.bybit.com/user/assets/records/derivatives"
+        },
+     
+        {
+            "desc": "Withdraw FAQ",
+            "detail": "https://help.bybit.com/hc/ja/articles/900004849946"
+        },
+    
+        {
+            "desc": "Withdraw Status",
+            "detail": "https://docs.google.com/spreadsheets/d/1kcmV6tuyfeokLfAMud5SrsYJcoywfKSH-C9Cpe2e9Qw/edit#gid=709659745"
+        },
+        {
+            "desc": "GA Reset",
+            "detail": "https://www.bybit.com/ja-JP_detail/help-center/bybitHC_Article?language=ja&id=000001023"
+        },
+        {
+            "desc": "KYC",
+            "detail": "https://www.bybit.com/ja-JP_detail/help-center/bybitHC_Article?language=ja&id=000001025"
+        },
+        {
+            "desc": "クッキー削除",
+            "detail": "https://help.bybit.com/hc/ja/articles/900002811226"
+        },
+        {
+            "desc": "セキュリティを強化",
+            "detail": "https://www.bybit.com/ja-JP_detail/help-center/bybitHC_Article?language=ja&id=000001019"
+        },
+        {
+            "desc": "ビデオ録画",
+            "detail": "https://help.bybit.com/hc/ja/articles/900000199166"
+        },
+        {
+            "desc": "デュアル資産投資 FAQ",
+            "detail": "https://help.bybit.com/hc/ja/articles/4405766994073"
+        },
+        {
+            "desc": "積立ステーキング FAQ",
+            "detail": "https://help.bybit.com/hc/ja/articles/4408500656281"
+        },
+        {
+            "desc": "DeFiマイニング FAQ",
+            "detail": "https://help.bybit.com/hc/ja/articles/4403223315097"
+        },
+        {
+            "desc": "Bybit Blog",
+            "detail": "https://blog.bybit.com/ja-JP/"
+        },
+        {
+            "desc": "Bybit help center",
+            "detail": "https://help.bybit.com/hc/ja"
+        },
+        {
+            "desc": "Bybit Learn",
+            "detail": "https://learn.bybit.com/"
+        },
+        {
+            "desc": "Bybit Affiliates",
+            "detail": "https://affiliates.bybit.com/v2/ja-JP/apply/"
+        },
+        {
+            "desc": "Bybitでの入金と出金",
+            "detail": "https://help.bybit.com/hc/ja/articles/360039748753"
+        },
+        {
+            "desc": "画面を録画",
+            "detail": "https://help.bybit.com/hc/ja/articles/900000199166"
+        },
+        
+        {
+            "desc": "Echeck",
+            "detail": "https://e-check.online/"
+        },
+        {
+            "desc": "OnRamp",
+            "detail": "https://onrampwallet.com/#contact"
+        },
+        {
+            "desc": "Simplex",
+            "detail": "https://support.simplex.com/hc/en-gb"
+        },
+        {
+            "desc": "資産回収",
+            "detail": "https://www.bybit.com/ja-JP/help-center/SubmitNewRequestForm?language=ja"
+        },
+        {
+            "desc": "カード購入KYC",
+            "detail": "https://help.bybit.com/hc/ja/articles/4549170638489"
+        },
+     
+        {
+            "desc": "Fiat Gateway",
+            "detail": "https://help.bybit.com/hc/ja/articles/4402142204057"
+        },
+        {
+            "desc": "Salesforce Quick Text Category",
+            "detail": "https://docs.google.com/spreadsheets/d/1TgV51ocSG4HASQ6pHEhn437hUyy9fIXl/edit#gid=1293909961"
+        },
+        {
+            "desc": "CS Cheat Sheet/客服参考列表",
+            "detail": "https://docs.google.com/spreadsheets/d/1kcmV6tuyfeokLfAMud5SrsYJcoywfKSH-C9Cpe2e9Qw/edit#gid=226499783"
+        },
+        {
+            "desc": "Error code/错误码",
+            "detail": "https://docs.google.com/spreadsheets/d/1L_F3-U8NnamC9ttXJs6su4lpklgrU4C1WYSF0y-I6ks/edit#gid=1965540744"
+        },
+       
+        {
+            "desc": "公式チャンネル認証",
+            "detail": "https://www.bybit.com/ja-JP/verification"
+        } ,
+        {
+            "desc": "Bybit(MT4)BOS",
+            "detail": "https://bybit-prod.brokertools.io/broker/customers/wallets"
+        },
+        {
+            "desc": "メイカー注文とテイカー注文の違い",
+            "detail": "https://help.bybit.com/hc/ja/articles/900006423463"
+        },
+        {
+            "desc": "無期限契約・先物契約の手数料",
+            "detail": "https://help.bybit.com/hc/ja/articles/4549724901401"
+        },
+        {
+            "desc": "手数料体系",
+            "detail": "https://help.bybit.com/hc/ja/articles/360039261154"
+        },
+        {
+            "desc": "Bybit 現物取引ルール",
+            "detail": "https://help.bybit.com/hc/ja/articles/4408709551129"
+        },
+        {
+            "desc": "Withdraw FAQ",
+            "detail": "https://help.bybit.com/hc/ja/articles/900004849946"
+        },
+    
+        {
+            "desc": "Withdraw Status",
+            "detail": "https://docs.google.com/spreadsheets/d/1kcmV6tuyfeokLfAMud5SrsYJcoywfKSH-C9Cpe2e9Qw/edit#gid=709659745"
+        }
+    ]
+}

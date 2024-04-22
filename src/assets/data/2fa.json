@@ -1,0 +1,46 @@
+{
+    "category": "2fa",
+    "content": [
+        {
+            "Sub": "2FA",
+            "desc": "二段階認証解除",
+            "JP_detail": "恐れ入りますが、2段階認証コードが失効し、またはアクセスできなく、回復キーフレーズも保存していない場合、2段階認証の解除を依頼する必要になりますが、2段階認証コードの入力画面に「本人確認で何かお困りですか？」をクリックして、お進めてください。2段階認証はアカウントのセキュリティーに関わりますので、解除には本人確認の手続きが必要になります。後ほど関連チームにより直接ご案内させて頂きます。連絡までしばらくお待ちください。////解除の後に、アカウントにログインできましたら、再度設定するように御願いします。",
+            "JP_link": "https://www.bybit.com/ja-JP/help-center/bybitHC_Article?language=ja&id=000001023"
+        },
+        {
+            "Sub": "2FA",
+            "desc": "２FA setting",
+            "JP_detail": "アプリ経由のGoogle認証設定手順\n（１）アプリの下メニュ「ホーム」→左上人間マーク＞セキュリティ→「Google認証」のところ、白い丸をスワイプしてください\n（２）その後メール認証コードは求められます。アカウントに登録のメールアドレスの受信ボックスにコードを確認してください\n（３）コード入れったら、Google認証のセットアップキー（回復キーフレーズ）が表示されます。保存するようにお願いします。\n（４）その後、セットアップキーをコピーして、Google認証アプリに入って、右下の色付きのプラスマークをタップして、セットアップキーを入力するを選択いたします。\n「アカウント」のところ、BYBITなどお客様の識別しやすい名前をつけてください。\n「キー」のところ、セットアップキーを貼り付けするようにします\n（５）そうしたら、６桁の認証コードは自動的に出てきます。Google認証のコードは30秒で変わりますので、ご注意ください\n（６）６桁の認証コードをメモして、またBYBITのアプリに戻って、入力してください。",
+            "JP_link": "https://www.bybit.com/ja-JP/help-center/bybitHC_Article?language=ja&id=000001021",
+            "CN_detail": "测试",
+            "CN_link": "test",
+            "EN_detail": "test",
+            "EN_link": "test"
+        },
+        {
+            "Sub": "2FA",
+            "desc": "GA setting",
+            "JP_detail": "恐れ入りますが、BYBITアカウントのGoogle認証を有効化に関して、こちらの記事にご参照ください。\nhttps://www.bybit.com/ja-JP/help-center/s/article/How-to-bind-unbind-your-account-s-2FA-via-Google-Authenticator\nもし不具合が発生した場合、どうぞお客様の設定操作の詳細を録画して頂き、こちらに確認させて頂きます。\n\n録画の手順に関して、こちらにお記事にご参照ください。\nhttps://www.bybit.com/ja-JP/help-center/s/article/Steps-on-how-to-do-screen-recording-on-various-devices-how-to-send-it-to-Bybit "
+        },
+      
+        {
+            "Sub": "2FA",
+            "desc": "二段階セットアップキー",
+            "JP_detail": "恐れ入りますが、2段階認証を設定の際に、回復キーフレーズ（セットアップキー）を保存していましたでしょうか。"
+        },
+        
+       
+        {
+            "Sub": "2FA",
+            "desc": "Google Sync",
+            "JP_detail": "「次の手順に従ってGoogle認証システムの同期を行ってください。\n\n1）iOSの最新バージョンを使用していることを確認してください。\n2）[設定]> [全般]> [日付と時刻]に進んで[自動設定]をオンにします。 これによりタイムゾーンが現在の場所に応じて自動で変更されます。\n3）デバイスが現在の場所に応じて正しいタイムゾーンを表示させるには、[設定]> [プライバシー]> [位置情報サービス]> [システム サービス）を選択し、（タイムゾーンの設定）を選択します\n4）[設定]>（全般）>（日付と時刻）>（タイムゾーン）と進んでデバイスが正しいタイムゾーンを表示していることを確認します",
+            "JP_link": "https://www.bybit.com/ja-JP/help-center/bybitHC_Article?language=ja&id=000001020",
+            "CN_detail": "测试",
+            "CN_link": "test",
+            "EN_detail": "test",
+            "EN_link": "test"
+        }
+    
+       
+    ]
+}

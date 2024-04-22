@@ -1,0 +1,146 @@
+{
+    "category": "MT4",
+    "content": [
+        {
+            "Sub": " account",
+            "desc": "PW Reset",
+            "JP_detail": "アカウントのパスワードリセットに関するお問い合わせは、セキュリティ上の理由から、残念ながらライブチャットではパスワードのリセットができません。\n 以下の文章をメール本文に明記の上、Bybitご登録メールアドレスを使用して、support-mt4@bybit.comに送信してください。\n「先ほどライブチャットで前述しましたように、MT4アカウント[お客様のMT4ログインID]を挿入のパスワードをリセットしたいと思います。」",
+            "EN_detail":"Regarding your request to reset your account's password, we would like to inform you that for security reasons, live chat support Team cannot perform password resets. Please send an email to support-mt4@bybit.com using your Bybit registered email address with the following information:\n \"As mentioned in the chat earlier, I would like to reset the password for my MT4 account [MT4 login ID]."
+        },
+        {
+            "Sub": "Account",
+            "desc": "Account Registration",
+            "JP_detail": "",
+            "JP_link": "",
+            "CN_detail": "",
+            "CN_link": "",
+            "EN_detail": "To open a Bybit MT4 account, users would need to first create an account on Bybit mainnet through this link here:\nhttps://www.bybit.com/en-US/register\n\nUpon sucessful registration of your Bybit account, you may open a new MT4 account via this link below:\nhttps://www.bybit.com/en-US/promo/mt4/\nFor more information, please refer to this Help Center Article: https://www.bybit.com/en-US/help-center/bybitHC_Article?language=en_US&id=000001507",
+            "EN_link": "service@mt4.bybit.com"
+        },
+        {
+            "Sub": "Account",
+            "desc": "Account PW reset",
+            "JP_detail": "",
+            "JP_link": "",
+            "CN_detail": "",
+            "CN_link": "",
+            "EN_detail": "After you have successfully opened a Bybit MT4 account, an email containing your MT4 account login number and passwords (Investor/Master) would be sent to your email. \nPlease check if it may have landed in your junk or spam mailbox.\nAlternatively, you may write an email to support-mt4@bybit.com from your Bybit registered email address to request for a password reset. ",
+            "EN_link": ""
+        },
+        {
+            "Sub": "Account",
+            "desc": "No connection",
+            "JP_detail": "",
+            "JP_link": "",
+            "CN_detail": "",
+            "CN_link": "",
+            "EN_detail": "If you are encountering the No Connection message on your connection status, please follow the basic troubleshooting steps below.\n\nMethod 1: Perform a Rescan:\n- Click on the bottom right corner\n- Select Rescan servers\n\nIf method 1 was unsuccessful, please try method 2.\nMethod 2: Perform a re-login and manually type out the server address.\nMainnet server address = mt4.bybit.com\nTestnet server address = mt4-testnet.bybit.com\nIf method 2 was unsuccessful, please try method 3.\nMethod 3: Disable any Antivirus/Firewall that is installed on your computer as it may be blocking access to your MT4 application.\n\nOnce it has been disabled, restart your MT4 platform.",
+            "EN_link": ""
+        },
+        {
+            "Sub": "Account",
+            "desc": "MT4 sub account",
+            "JP_detail": "",
+            "JP_link": "",
+            "CN_detail": "",
+            "CN_link": "",
+            "EN_detail": "Each registered email address is only entitled to a single MT4 account. We do not offer multiple MT4 accounts tagged under a single Bybit UID at the moment.",
+            "EN_link": ""
+        },
+        {
+            "Sub": "Account",
+            "desc": "MT4 server maintenance",
+            "JP_detail": "XXXXXX（UTC）からより良い取引体験をご提供させていただきますため、MT４サーバーのメンテナンスをさせていただきます。メンテナンスには約 XXXXX ほどかかる見込みです。\nメンテナンス期間中、MT４アカウントへのログイン、アカウントにて取引を行うことはできません。ストップ/ 指値/利食い/損切りを含む注文や保留中の注文もこの期間中トリガーされませんのでご留意ください。",
+            "JP_link": "",
+            "CN_detail": "",
+            "CN_link": "",
+            "EN_detail": "There will be a  MT4 server maintenance on XXXXXXXX. The update  should take approximately XXXX. During  this period, MT4 user will not be able to perform any login or trades(including placing new orders or closing positions).\nMass email notifications have been sent out to notify clients of this slight downtime.",
+            "EN_link": ""
+        },
+        {
+            "Sub": "Account",
+            "desc": "MT4 App login",
+            "JP_detail": "",
+            "JP_link": "",
+            "CN_detail": "",
+            "CN_link": "",
+            "EN_detail": "Please follow the Steps below to login your MT4 Account in MT4 Mobile Apps\niOS:\n1. Open the MT4 mobile application and go to “Settings” \n2. Select “New Account” \n3. Select the option “Login to an existing Account”  \n4. In the search bar on top, type in “Bybit” to view all available Bybit servers \n5. Select the designated server for the MT4 account \n6. Enter the MT4 Login and password, and Sign in \nAndroid: \n1. Click on the 3 line on the Top left hand side\n2. Click on [Manage Accounts]\n3. Click on the [+] icon on the Top right hand side\n4. Select the option “Login to an existing Account”  \n5. In the search bar on top, type in “Bybit”  to view all available Bybit servers \n6. Select the designated server for the MT4 account \n7. Enter the MT4 Login and password, and Sign in \n\nFor more information, please refer to this Help Center Article: https://www.bybit.com/en-US/help-center/apex/bybitHC_Article?language=en_US&id=000001519",
+            "EN_link": ""
+        },
+        {
+            "Sub": "Account",
+            "desc": "MT4 leverage",
+            "JP_detail": "",
+            "JP_link": "",
+            "CN_detail": "",
+            "CN_link": "",
+            "EN_detail": "MT4 applies a different leverage depending on which pair you’re trading. The 100:1 leverage only applies to the BTCUSDT pair. For the leverage and margin requirements of other pairs offered, kindly refer to the link https://www.bybit.com/en-US/help-center/bybitHC_Article?language=en_US&id=000001627",
+            "EN_link": "https://www.bybit.com/en-US/help-center/bybitHC_Article?language=en_US&id=000001627"
+        },
+        {
+            "Sub": "Account",
+            "desc": "MT4 Margin",
+            "JP_detail": "",
+            "JP_link": "",
+            "CN_detail": "",
+            "CN_link": "",
+            "EN_detail": "MT4 applies a tiered margin structure to calculate margin requirements on your Open Positons. Click https://www.bybit.com/en-US/help-center/bybitHC_Article?language=en_US&id=000001627 to learn more on how tiered margin is calculated",
+            "EN_link": "https://www.bybit.com/en-US/help-center/bybitHC_Article?language=en_US&id=000001627"
+        },
+        {
+            "Sub": "Account",
+            "desc": "MT4 Funding fee",
+            "JP_detail": "",
+            "JP_link": "",
+            "CN_detail": "",
+            "CN_link": "",
+            "EN_detail": "Bybit's MT4 applies the same funding rates similiar to what is received or charged on the Bybit Mainnet platform. As such, traders can check on the upcoming funding rate(s) they would be charged on the Bybit web/mobile trading page. \n Funding fees on MT4 are charged according to the total position held in that trading pair. \n Funding Fee Formula is as follows. \n Funding Fee = Notional Amount x Funding Rate\n Notional Amount = Quantity x Mark Price (source=open)\nFunding Fee = Quantity x Mark Price (Source=Open) x Funding Rate\n Please note that the funding fees are calculated based on the notional amount of the position that traders held until the funding time. The notional amount is calculated by multiplying the number of contracts of the trading pair with the opening mark price at the time of funding.\nFor example Trader A has a total of 1 BTCUSDT and the opening Mark Price is 41,000 at 08:00 UTC and the funding rate was 0.01%. Then the calculation will be as follows:\n1 x 41,000 x 0.01% = 4.1 USDT\n For more information, please refer to this Help Center Article: https://www.bybit.com/en-US/help-center/apex/bybitHC_Article?language=en_US&id=000001633",
+            "EN_link": "https://www.bybit.com/en-US/help-center/apex/bybitHC_Article?language=en_US&id=000001633"
+        },
+        {
+            "Sub": "Account",
+            "desc": "MT4 Trading fee",
+            "JP_detail": "",
+            "JP_link": "",
+            "CN_detail": "",
+            "CN_link": "",
+            "EN_detail": "Trading fees (Commission) would be charged according to the Taker Fee Rate and VIP level you belong to. This applies to all Limit/Stop/Market orders that are executed on MT4. \nFor users on the Non-VIP tier, this means that all trades executed on MT4 would be calculated based on 0.06%. Trading fees would be reflected as a new line on the Account History section, with the comment displaying as Commission # Order Number\nAssuming you are currently on the Non-VIP tier, and had placed a Limit Buy Order for 0.01 BTCUSDT at 60,000, \nWhen the order is triggered, trading fees incurred would be\n= Executed Price X Quantity Traded X Trading Fee Rate\n= 60,000 * 0.01 *0.06% \n= USDT 0.36",
+            "EN_link": ""
+        },
+        {
+            "Sub": "Account",
+            "desc": "MT4 EA",
+            "JP_detail": "",
+            "JP_link": "",
+            "CN_detail": "",
+            "CN_link": "",
+            "EN_detail": "Bybit does not provide support for issues with users' EA codes. For any EA related issues, please reach out to the MQL community/forums instead.",
+            "EN_link": ""
+        },
+        {
+            "Sub": "Account",
+            "desc": "MT4 import EA ",
+            "JP_detail": "",
+            "JP_link": "",
+            "CN_detail": "",
+            "CN_link": "",
+            "EN_detail": "Please follow the steps below:\n1. Select File from the Toolbar menu at the Top left hand corner\n2. Select Open Data Folder\n3. Open the MQL4 folder\n4. In the MQL4 folder, open the Experts folder\n5. Import your EA to the Experts folder\n6. Return to your MT4 application, and look up Navigation (Expert Advisors)\n7. Right-click and select Refresh. Locate and Launch the EA that was imported\nFor more information, please refer to this Help Center Article: https://www.bybit.com/en-US/help-center/apex/bybitHC_Article?language=en_US&id=000001470",
+            "EN_link": "https://www.bybit.com/en-US/help-center/apex/bybitHC_Article?language=en_US&id=000001470"
+        },
+        {
+            "Sub": "Account",
+            "desc": "MT4 download link",
+            "JP_detail": "",
+            "JP_link": "",
+            "CN_detail": "",
+            "CN_link": "",
+            "EN_detail": "Please click on the link below to download MT4 to your PC/Mobile device.\n Windows: https://download.mql5.com/cdn/web/20665/mt4/bybitglobal4setup.exe\n iOS: https://download.mql5.com/cdn/mobile/mt4/ios?server=Bybit\n Android: https://download.mql5.com/cdn/mobile/mt4/android?server=Bybit ",
+            "EN_link": ""
+        },
+        {
+            "Sub": "Trading",
+            "desc": "Position Close",
+            "JP_detail": "詳細をご提供いただきましてありがとうございます。 ポジションの決済をサポートするために、Bybitご登録メールアドレスと以下の内容を使用して、support-mt4@bybit.comに公式なリクエストを送信してください。\n\n「私は、BybitエージェントがMT4で現在保有している私の注文IDXXXXXのXXX取引ペアのXXX数量と私の注文IDXXXXXXのXXX取引ペアのXXX数量のオープンポジションを市場価格で決済することを承認します。 ポジションの決済時に生じる可能性のある価格と関連する手数料の価格変動を認識しています。」"
+        }
+    ]
+}

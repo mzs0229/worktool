@@ -1,0 +1,345 @@
+{
+    "category": "common phase",
+    "content": [
+        {
+            "Sub": "a01",
+            "desc": "Welcome",
+            "JP_detail": "Bybitライブチャットカスタマーサポートにご連絡いただきありがとうございます。 Zenと申します。どうぞよろしくお願いします。",
+            "JP_link": "",
+            "CN_detail": "感谢您联系Bybit在线客服。我是 Zen , 很高兴能为您服务。请给我一些时间阅读您的询问，谢谢。",
+            "CN_link": "",
+            "EN_detail": "Thank you for contacting Bybit live chat customer support. This is Zen, and it is my pleasure to assist you today. Please allow me some time to read your inquiry, thank you.",
+            "EN_link": "",
+            "high": false
+        },
+        {
+            "Sub": "Affected ID",
+            "desc": "Affected ID",
+            "JP_detail": "さらに確認するために、影響を受ける取引ペアと取引 ID/注文 ID を教えていただけますか?",
+            "CN_detail": "请问您可以提供受影响的交易对和交易ID/订单ID以便进一步检查吗？",
+            "EN_detail": "May I know the affected trading pair and trade ID/order ID for further checking?"
+        },
+        {
+            "Sub": "Account ban",
+            "desc": "notification mail",
+            "JP_detail": "アカウント制限に関する通知メールは受け取りましたか?",
+            "CN_detail": "您是否收到过有关您的帐户限制的通知邮件？",
+            "EN_detail": "have you received any notification mail about your account limitation?"
+        },
+        {
+            "Sub": "a03",
+            "desc": "a03 Hold On",
+            "JP_detail": "こちら確認しますので、3-5分ほどお待ちくださいませ。",
+            "JP_link": "",
+            "CN_detail": "请您稍等一会，客服需要 3-5分钟帮您查询。",
+            "CN_link": "",
+            "EN_detail": "Please give me 3-5 minutes while I check on this for you.",
+            "EN_link": ""
+        },
+        {
+            "Sub": "a05",
+            "desc": "Other Inquiry",
+            "JP_detail": "ありがとうございます。いつも喜んでお客様のお役に立ちたいと考えています。他に何かご質問はございますか。",
+            "JP_link": "",
+            "CN_detail": "感谢您的理解。\n尊敬的Bybit用户，请问还有什么别的我可以帮您的吗？",
+            "CN_link": "",
+            "EN_detail": "Thank you for your understanding. Do you still have any queries that I can assist you with?",
+            "EN_link": ""
+        },
+        {
+            "Sub": "a05",
+            "desc": "Other Inquiry2",
+            "JP_detail": "ありがとうございます。\n恐れ入りますが、他にご質問がなければ、一度チャットを終了させて頂きますが、他の不明なところがございましたら、いつでもお気軽にライブチャットにお越しください。良い夜をお過ごしください。\n失礼いたします。",
+            "JP_link": "",
+            "CN_detail": "非常感谢您的理解，如果您没有其他疑问，请允许我先关闭此聊天。 如果您有其他不明白的地方，欢迎您再次通过在线聊天来获取支持。祝您今晚过得愉快。\n可以的话,麻烦您给一个5分的好评,非常感谢！",
+            "CN_link": "",
+            "EN_detail": "Thank you. If you have no any other inquiry, kindly allow me to close this chat first. \nIf you need any further assistance, please help to reach us via online chat again or raise a case with link https://www.bybit.com/en-US/help-center/s/webform  \n\nHave a nice day.\nIf available ,please also kindly leave a 5 star rating for our CS team, thank you.",
+            "EN_link": ""
+        },
+        {
+            "Sub": "a07 close2",
+            "desc": "close2",
+            "JP_detail": "Bybitにお問い合わせいただき、誠にありがとうございました。\nチャットが途中で途切れてしまいましたようですが、一度チャットを閉じさせていただきます。問題が解決していない場合はメッセージを入力する欄に「チャット」と入力していただきますと最短でライブチャットに繋がります。\n今後ともどうぞよろしくお願いいたします。",
+            "JP_link": "",
+            "CN_detail": "非常抱歉，由于长时间没有收到您的回应，请允许我先关闭在线聊天的窗口，如果您有其他不明白的地方，欢迎您再次通过在线聊天或通过链接 https://www.bybit.com/zh-MY/help-center/s/webform 提出工单来获取支持。 ",
+            "CN_link": "",
+            "EN_detail": "Due to not heard from you for a while, please allow me to close the chat first. if you have any other inquiry, please help to reach us via online chat again or raise a case with link https://www.bybit.com/en-US/help-center/s/webform ,thank you.\nHave a nice day.",
+            "EN_link": ""
+        },
+        {
+            "Sub": "Case",
+            "desc": "Escalated",
+            "JP_detail": "お客様のお問合せはさらに確認するため、すでに関連チームにエスカレートされていました。回答までしばらくお待ちください。",
+            "CN_detail": "确认到您的工单已经转去相关团队做进一步确认，请您耐心等待回复",
+            "EN_detail": "It is confirmed that your case has been escalated to the relevant team for further checking, please wait patiently for the reply"
+            },
+        {
+            "Sub": "Inquiry",
+            "desc": "Escalation",
+            "JP_detail": "恐れ入りますが、アカウント情報のセキュリティのため、ライブチャットでは確認できないこともございます。関連チームに確認させていただきます。後ほどアカウントにご登録済のメールアドレスにメールでご連絡させていただいてもよろしいでしょうか。通常24時間（平日）/48時間（週末挟み）以内にアカウントの登録アドレスにメールで対応させていただいております。できる限り、早めにご連絡いたします。",
+            "JP_link": "",
+            "CN_detail": "基于客户账户信息保护，在线客服不能访问到您的全部信息， 请允许我向BYBIT的相关部门进一步确认，然后在24小时（工作日期间）/48小时（跨休息日）之内以邮件的方式向您的账户注册邮件进行回复。我们会尽快的联系您，感谢您的理解和合作。",
+            "CN_link": "",
+            "EN_detail": "Please allow me some time to check with our relevant team and we will let you know via email within 24 hours weekdays /48 hours weekends. Thank you for your understanding and sorry for any inconvenience caused.",
+            "EN_link": ""
+        },
+        {
+            "Sub": "Long time wait",
+            "desc": "Long time wait",
+            "JP_detail": "現在複数のチャットを同時に処理しているため、返信が遅れていることをお詫び申し上げます。",
+            "CN_detail": "目前正在同时处理多个聊天,对于回复延迟表示十分抱歉。",
+            "EN_detail": "Apologise for the reply delay , currently handling multiple chats at same time."
+        },
+        {
+            "Sub": "Inquiry",
+            "desc": "Elaborate",
+            "JP_detail": "恐れ入りますが、ご質問の詳細を伺ってもよろしいでしょうか。",
+            "JP_link": "",
+            "CN_detail": "请问您能详细描述一下您的问题吗？",
+            "CN_link": "",
+            "EN_detail": " Could you help to elaborate your inquiry?",
+            "EN_link": ""
+        },
+    
+        {
+            "Sub": "Inquiry",
+            "desc": "Refer to link",
+            "JP_detail": "詳細の情報に関して、上記の記事にご参照ください。",
+            "JP_link": "",
+            "CN_detail": "请参阅上面的文章以获取更多信息。",
+            "CN_link": "",
+            "EN_detail": "Please refer to the article above for more information.",
+            "EN_link": ""
+        },
+        {
+            "Sub": "Inquiry",
+            "desc": "Error Message & screenshot",
+            "JP_detail": "恐れ入りますが、こちら詳細を確認するため、画面上に何かエラーメッセージは表示されますか。可能であれば、スクリーンショットをご提供いただけますでしょうか。クリップのアイコンをクリックしたら、画像をアップロードできます。",
+            "JP_link": "",
+            "CN_detail": "请问页面上有显示什么错误信息吗？可以的话，请问您方便提供一下截图吗？您可以点击回形针图标来上传截图，谢谢。",
+            "CN_link": "",
+            "EN_detail": "Is there any error message showing in the page? Could you help to provide a screenshot for further checking? You may click the clip icon to upload the screenshot.",
+            "EN_link": ""
+        },
+        {
+            "Sub": "",
+            "desc": "Zero Asset",
+            "JP_detail": "お客様は複数のアカウントをお持ちで、間違ったアカウントにログインしたでしょうか。ご確認お願いします。\nまた資産のあるアカウントをご確認希望の場合、資産を入金した情報を詳細をご提示いただき、こちらに確認させていただきます。",
+            "CN_detail": "请确认您是否有多个帐户并登录了错误的帐户？",
+            "EN_detail": "Did you have multiple accounts and logged into the wrong account? Please confirm."
+            },
+        {
+            "Sub": "",
+            "desc": "Trade/Order ID",
+            "JP_detail": "強制清算をさらに確認するため、影響を受けた取引ペアと取引/注文 ID をご提示いただけると幸いでございます。",
+            "CN_detail": "关于您的强制结算的查询，请您帮忙提供受影响的交易对和交易/订单ID，以便我们进一步确认，谢谢。",
+            "EN_detail": "Pertaining to your liquidation inquiry , kindly help to indicate the affected trade pair and trade/ order ID for our further checking, thank you."
+            },
+         
+        {
+            "Sub": "Inquiry",
+            "desc": "App or PC",
+            "JP_detail": "お客様が現在使用しているのはアプリですか、またはPCですか？",
+            "JP_link": "",
+            "CN_detail": "请问您现在使用的是WEB端应用还是，移动端应用？",
+            "CN_link": "",
+            "EN_detail": "May I know you are using WEB end or BYBIT mobile APP?",
+            "EN_link": ""
+        },
+
+        {
+            "Sub": "",
+            "desc": "Request for screen recording",
+            "JP_detail": "お客様の問題をさらに確認するため、画面を録画して support@bybit.com に送信していただけますか。\n録画の手順に関して、こちらにお記事にご参照ください。\nhttps://www.bybit.com/ja-JP/help-center/s/article/Steps-on-how-to-do-screen-recording-on-various-devices-how-to-send-it-to-Bybit\nもし録画のファイルのサイズが大きい場合、support-jp@bybit.comまでご送信ください。",
+            "CN_detail": "请问您能否可以对您的问题进行录屏并发送至support@bybit.com以便我们进一步确认，谢谢。 \n关于录屏的方法，请参考下面的链接。\nhttps://www.bybit.com/zh-MY/help-center/s/article/Steps-on-how-to-do-screen-recording-on-various-devices-how-to-send-it-to-Bybit",
+            "EN_detail": "could you help to take a screen recording and send to support@bybit.com for our further checking, thank you.\nYou may refer to below link for how to proceed with the screen recording.\n https://www.bybit.com/en-US/help-center/s/article/Steps-on-how-to-do-screen-recording-on-various-devices-how-to-send-it-to-Bybit"
+         },
+         
+        {
+            "Sub": "UTA ",
+            "desc": "UTA revert",
+            "JP_detail": "恐れ入りますが、統合取引アカウントに更新後、元のアカウントに戻すことはできません。アカウント設定も戻せませんのでご注意ください。\n現物アカウント、デリバティブアカウント、およびUSDCデリバティブアカウントのみで利用可能な機能を引き続き使用する場合は、サブアカウントを作成してください。",
+            "JP_link": "",
+            "CN_detail": "请注意、统一交易账户升级操作不可逆，升级完成后将无法恢复账户设置。\n 如需继续使用仅现货账户、合约账户和 USDC 合约账户才能提供的功能，您可以开通子账户。",
+            "CN_link": "",
+            "EN_detail": "Please note that the upgrading of Unified Trading Account is irreversible, and you will not be able to revert your account settings after it is completed.\nYou can open standard Subaccount if you want to continue using the functions that are only available with the Spot Account, Derivatives Account and USDC Derivatives Account.",
+            "EN_link": ""
+        },
+      
+     
+      
+     
+     
+        {
+            "Sub": "Inquiry",
+            "desc": "Feedback",
+            "JP_detail": "かしこまりました。ご意見を関連部署に共有させて頂きます。サービス改善を検討します。",
+            "JP_link": "",
+            "CN_detail": "感谢您宝贵的意见 我们将与相关部门分享您的意见并考虑改善我们的服务。",
+            "CN_link": "",
+            "EN_detail": "Understood. We will share your suggestion with our relevant team and consider for the service improvement.",
+            "EN_link": ""
+        },
+        {
+            "Sub": "Inquiry",
+            "desc": "Leave Chat",
+            "JP_detail": "「チャットを終了」のボタンを押せずに、チャットを離れて大丈夫です。万が一チャットが切れた場合、チャットのメッセージを入力する欄に「チャット」と入力していただきますと最短でライブチャットに繋がります。",
+            "JP_link": "",
+            "CN_detail": "离开对话窗口，不会导致对话结束。 对话意外终止的情况下，可以在信息输入框里输入【对话】可以直接连通在线聊天",
+            "CN_link": "",
+            "EN_detail": "Leaving the chat window will not end the chat. You may input 'chat' into the message box to reconnect to chat in case the chat ended accidentally. ",
+            "EN_link": ""
+        },
+        {
+            "Sub": "Inquiry",
+            "desc": "Inquiry Solved",
+            "JP_detail": "お客様の問題が解決され、何よりでございます。",
+            "JP_link": "",
+            "CN_detail": "能够帮到您解决问题，是我们的荣幸。",
+            "CN_link": "",
+            "EN_detail": "We are glad that your issue has been resolved.",
+            "EN_link": ""
+
+
+        },
+        {
+            "Sub": "Deposit",
+            "desc": "TXID",
+            "JP_detail": "恐れ入りますが、どちらのコインの入金でしょうか。お客様の入金のTXIDをいただけますでしょうか。トランザクションID（TXID）とはランダムな64桁の英数字で編成された、仮想通貨の取引IDです。全ての仮想通貨の取引にて、それぞれ割り与えられます。TXID（取引ID）は送金元のウォレットの出金履歴からご確認頂くことができます。トランザクションハッシュとも呼ばれます。",
+            "JP_link": "",
+            "CN_detail": "您能提供一下您的交易ID吗？通常是64位的数字和字母的组合，可以在您的汇出方账户的汇出履历中进行确认。交易ID有时也被称为哈希值。",
+            "CN_link": "",
+            "EN_detail": "May I have the TXID of your deposit? The transaction ID (TXID) is a cryptocurrency transaction ID consisting of 64 random alphanumeric characters. All crypto currency transactions are assigned. You can check the TXID (transaction ID) from the withdrawal history of your sending wallet. ",
+            "EN_link": ""
+        },
+        {
+            "Sub": "Inquiry",
+            "desc": "Pending Reply",
+            "JP_detail": "恐れ入りますが、本件関連部署での対応となりますため、こちらから早めに処理するようにリマインドさせていただきます。24時間以内にご登録のメールアドレスにご連絡させていただきます。回答まで今しばらくお待ちくださいますようお願いいたします。",
+            "JP_link": "",
+            "CN_detail": "您询问的业务目前由相关的团队进行处理，我将会帮您向相关团队进行确认并督促尽快向您答复，请您耐心等待我们的联络，感谢您的理解和合作。",
+            "CN_link": "",
+            "EN_detail": "",
+            "EN_link": ""
+        },
+       
+        {
+            "Sub": "account",
+            "desc": "Register mail",
+            "JP_detail": "恐れ入りますが、お客様のアカウントの登録メールアドレスを伺ってもよろしいでしょうか。XXXXXXX ではアカウントを確認できませんでした。",
+            "JP_link": "",
+            "CN_detail": "请问您能提供一下BYBIT账户的登录邮箱吗？XXXXXXXX 的邮箱未能确认到Bybit账户。",
+            "CN_link": "",
+            "EN_detail": "May I know the registered mail address for your BYBIT account? mail address: XXXXXXXXXXX  unable to match any Bybit accounts.",
+            "EN_link": ""
+        },
+        {
+            "Sub": "account",
+            "desc": "No Tel Support",
+            "JP_detail": "申し訳ございません、現在BYBITでは電話経由のサポートを提供しておりませんので、ご了承ください。",
+            "JP_link": "",
+            "CN_detail": "",
+            "CN_link": "",
+            "EN_detail": "",
+            "EN_link": ""
+        },
+      
+       
+       
+        {
+            "Sub": "Feedback",
+            "desc": "Feedback",
+            "JP_detail": "こちらのリンクより、お客様の貴重なフィードバックをお送りいただけますと幸いです。\nhttps://www.bybit.com/ja-JP/user-feedback",
+            "JP_link": "",
+            "CN_detail": "感谢您宝贵的意见，希望您能将您的反馈通过以下链接，分享至我们的相关部门。\nhttps://www.bybit.com/zh-CN/user-feedback",
+            "CN_link": "",
+            "EN_detail": "thank you for your feedback, you may also send it here https://www.bybit.com/en-US/user-feedback",
+            "EN_link": ""
+        },
+       
+        {
+            "Sub": "Campaign",
+            "desc": "Campaign",
+            "JP_detail": "恐れ入りますが、Bybitは多数のキャンペーンを実施しております。お客様がご参加いただいたキャンペーンの詳細をご教示いただけませんか。リンクをいただければ、幸いでございます。",
+            "JP_link": "",
+            "CN_detail": "很抱歉，Bybit目前有实施多数的营销活动，您可以提供一下您想咨询的活动链接吗？谢谢您的合作。",
+            "CN_link": "",
+            "EN_detail": "We apologise for the inconvenience, but Bybit has many promotions. Could you please let us know the details of the campaign you participated in? We would appreciate it if you could provide us a link or screenshot for reference.",
+            "EN_link": ""
+        },
+        {
+            "Sub": "Campaign",
+            "desc": "Next Campaign",
+            "JP_detail": "なお、Bybitでは多くのキャンペーンを実施しております。こちらのブログ、https://blog.bybit.com/ja-JP/ または弊社のツイータ https://twitter.com/BybitJP でキャンペーン情報をフォローいただき、次回是非ご参加くださいませ。",
+            "JP_link": "",
+            "CN_detail": "Bybit会不定时的推出多种营销活动，您可以通过访问我们的博客https://blog.bybit.com/zh-TW 或者订阅我们的推特https://twitter.com/Bybit_Official等来获取活动信息，欢迎您参与我们其他的营销活动。",
+            "CN_link": "",
+            "EN_detail": "",
+            "EN_link": ""
+        },
+        
+        {
+            "Sub": "",
+            "desc": "録画",
+            "JP_detail": "お手数ですが、お客様の画面を録画して、support@bybit.comまで送っていただけますでしょうか\nhttps://www.bybit.com/ja-JP/help-center/s/article/Steps-on-how-to-do-screen-recording-on-various-devices-how-to-send-it-to-Bybit\n画面を録画してBybitへ送信する手順は上記の記事にご参照ください",
+            "CN_detail": "能否请您录制您的屏幕并将其发送到 support@bybit.com https://www.bybit.com/ja-JP/help-center/s/article/Steps-on-how-to-do-screen-recording -on-various-devices-how-to-send-it-to-Bybit",
+            "EN_detail": "Could you please record your screen and send it to support@bybit.com https://www.bybit.com/ja-JP/help-center/s/article/Steps-on- how-to-do-screen-recording-on-various-devices-how-to-send-it-to-Bybit"
+            },
+        {
+            "desc": "Transaction History",
+            "JP_detail": "かしこまりました。過去6か月の注文履歴のみを表示しています。他の履歴が必要な場合、どうぞ弊社のサポートメールsupport-jp@bybit.comまで、メールでご依頼お願いします。",
+            "JP_link": "",
+            "CN_detail": "",
+            "CN_link": "",
+            "EN_detail": "",
+            "EN_link": ""
+        },
+        {
+            "desc": "P2P escalation",
+            "JP_detail": "",
+            "JP_link": "",
+            "CN_detail": "",
+            "CN_link": "",
+            "EN_detail": "P2P order:  XXXXXXXXXXXXXXX\nuser is buyer / seller, paid but not received the coin,/ not received the payment , reported that submit the appeal documents in P2P chat window ,\nplease help to check and assist, thank you.",
+            "EN_link": ""
+        },
+        {
+            "desc": "mail whitelist",
+            "JP_detail": "",
+            "JP_link": "https://www.bybit.com/ja-JP/help-center/bybitHC_Article?language=ja&id=000001442",
+            "CN_detail": "",
+            "CN_link": "",
+            "EN_detail": "",
+            "EN_link": ""
+        },
+      
+        {
+            "desc": "Chat Saving",
+            "JP_detail": "チャットの左上に三つの点がございます。タップすると、選択肢が出てくるので、こちらより会話記録をメールで送信できます。",
+            "JP_link": "",
+            "CN_detail": "。",
+            "CN_link": "",
+            "EN_detail": "",
+            "EN_link": ""
+        },
+        {
+            "desc": "SMS fishing",
+            "JP_detail": "Bybitを装ったSMSが多く確認されています。\n当社はいかなる場合においても、お客様にSMSでご連絡差し上げることはありません。\nこのようなSMSを受信した場合、本文に記載されたURLは絶対に開かず削除していただきますようお願い申し上げます。",
+            "JP_link": "",
+            "CN_detail": "。",
+            "CN_link": "",
+            "EN_detail": "",
+            "EN_link": ""
+        },
+        {
+            "Sub": "TestNet",
+            "desc": "For New user",
+            "JP_detail": "Bybitでの取引の基本や仕組みはヘルプセンターの記事でご案内しておりますのでご利用ください。\n\nhttps://www.bybit.com/ja-JP/help-center/bybitHC_HomePage?langua=&language=ja\n\nまた、メインネットで実際のコインを使用して取引する前に、まずテストネットプラットフォームで取引してBybitプラットフォームに慣れることをお勧めします。デモトレードができますので是非ご活用ください。\n\ntestnet.bybit.com",
+            "JP_link": "",
+            "CN_detail": "",
+            "CN_link": "",
+            "EN_detail": "",
+            "EN_link": ""
+        }
+    ]
+}

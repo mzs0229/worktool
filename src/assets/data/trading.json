@@ -1,0 +1,126 @@
+{
+    "category":"trading",
+    "content":
+    [
+       
+        {"Sub": "Spot",
+            "desc": "留保金",
+            "JP_detail": "恐れ入りますが、指値の注文はございますでしょうか。\n指値注文が入った場合、約定するまで、取引に使用される資産が凍結されますので、ご了承ください。\n指値注文をキャンセルすれば、凍結された分の資産は解放されますので、お試しくださいませんか。",
+            "CN_detail":"关于资产被冻结，请您确认是否有未被执行的限价单。\n如果有未被执行的限价单，您想要交易的资产将会在限价单被执行或被取消之前被系统锁定。\n比如，BTCUSDT的限价买单，USDT资产会被冻结。 BTCUSDT的限价卖单，BTC得资产会被锁定。\n您只要取消为成交的限价单，资产冻结就会被解除。"
+        },
+        {
+            "Sub": "Funding fee",
+            "desc": "Funding fee",
+            "JP_detail": "https://www.bybit.com/ja-JP/help-center/s/article/Funding-fee-calculation \n資金調達料の計算については、上記の記事を参照してください。\n資金調達料は次のように計算されます。\n\n資金調達料=ポジション価額x資金調達率\nポジション価額=契約数量/マーク価格\n\n資金調達料は、毎資金調達間隔の終わりに買い手と売り手の間で直接交換されます。\n資金調達率がプラスの場合、ロングポジションの保有者がショートポジションの保有者に支払います。 同様に、資金調達率がマイナスの場合、ショートポジションの保有者はロングポジションの保有者に支払います。",
+            "JP_link": "",
+            "CN_detail": "https://www.bybit.com/zh-MY/help-center/s/article/Funding-fee-calculation \n资金费用的计算请参阅上文文章了解更多信息.\n费用计算方法如下：\n\n资金费用=仓位价值x资金费率\n仓位价值=合约数量x标记价格\n\n买方和卖方之间在每个资金间隔 结束后会交换资金费用.\n如果资金费率为正，多仓将支付资金费用给空仓。反之，如果资金费率为负，空仓将支付资金费用给多仓",
+            "CN_link": "",
+            "EN_detail": " https://www.bybit.com/en-US/help-center/s/article/Funding-fee-calculation\n\nFor funding fee calculation, please refer to the article above for more information.\n\nFunding Fee is calculated as follows:\n\n Funding Fee = Position Value x Funding Rate\nPosition Value = Quantity of Contract x Mark Price\n\nThe funding fee is exchanged directly between buyers and sellers at the end of every funding interval.\n\nWhen the funding rate is positive, long position holders pay the short position holders. Likewise, when the funding rate is negative, short position holders pay the long position holders.",
+            "EN_link": ""
+        },
+        
+        {"Sub": "Derivative",
+            "desc": "強制決済詳細",
+            "JP_detail": "お客様のポジションは、**** UTCにおいて、マーク価格（チャートの黄色の線）がお客様のポジションの強制決済価格**** USDに達したときに強制決済されました。マーク価格が所定の時期に***USDに達したため、強制決済することになりました。\nなお、強制決済はマークの価格が強制決済価格に達したときに行われますので、ご注意ください。これを防ぐためには、強制決済価格の前の価格帯に損切を設定し、マーク価格をトリガーとして選択することをお勧めします。",
+            "EN_detail":"Your position was liquidated when the mark price (yellow line in the chart) reached the liquidation price XXXXXX of your position at XXXXXXXXX UTC. The mark price reached XXXXXX at the given time and resulted in liquidation.\n\n Please take note that liquidation is triggered when mark price reaches the liquidation price. Hence, to prevent this, it is advised to set up a stop-loss at a price point before the liquidation price and to select mark price as trigger. "
+        },
+        {"Sub": "Derivative",
+            "desc": "TP/SL order",
+            "JP_detail": "確認したところ、損切/利食注文のトリガー価格をXXXXに設定し、XXXXに約定しました。損切/利食注文が即時約定するため、注文が成行注文として約定されます。成行注文がスリッページで約定される可能性があるため、トリガー価格は約定された価格と差が出ることがございます。 スリッページを回避する場合は、指値注文でポジションを決済することもできますが、指値注文は100%のポジション数量を一度に決済することを保証するできかねますのでご注意ください。",
+            "EN_detail":"Checked the Stop Loss/Take Profit order set trigger price at XXXX and executed at XXXX,to make the SL/TP order executed immediately, SL/TP order executed as market orderand market order may executed with slippage, thus the reason of the difference of the trigger price and execution price.If you want to avoid the slippage, you may close your position with limit order, but kindly notice that  limit order do not guarantee the position quantity 100% closed at one time.",
+            "CN_detail":"请注意为保证止盈止损单能够快速成交，止盈止损将以市价单进行成交，因此会面临滑点风险如果您需要规避滑点风险，建议您使用限价单进行平仓，但是限价单不能保证仓位100%的快速成交"
+        },
+        {"Sub": " Copy Trade",
+            "desc": "Copy Trade Transfer Asset",
+            "JP_detail": "恐れ入りますが、コピートレードの仕様はアップデートさせていただきました。\nコピートレードアカウントから資産の移動ボタンを無くなりました。\n現在マスタートレーダーにフォローしたポジションを決済していただき、マスタートレーダーのフォローを解除していただければ、資産は自動的に資金長調達アカウントに戻しますので、ご了承ください。\n\nもしフォローしているマスタートレーダーにフォローし続ける場合、フォロー解除した後に、お早めに新しい投資金額を入力して、再度フォローの手続きをしてください。",
+            "EN_detail":"Kindly notice that the copy trading function had been upgraded.  The transfer button was removed and your can follow to multiple master traders with separated fund from your main account.\nTo transfer back the fund from copy trade account, you may need to close the position and unfollow the master trader you following separately. The fund will be automatically transfer back to your funding account. ",
+            "CN_detail":"对于给您带来的不便，我们深表歉意，但请注意我们已经更新了跟单交易规范。\n目前跟单交易账户中移除转出资产的按钮。\n当您将当前跟单交易的仓位平仓，并取消跟单达人的跟单设定，跟单交易账户的资产将自动返回您的资金账户。\n\n如果您想继续跟单您正在跟单的跟单达人，取消跟单设定后，请尽快输入新的投资金额，并进行跟单设定。"
+        },
+    
+        {"Sub": "Trading",
+            "desc": "Order",
+            "JP_detail": "指値/成行/条件付き注文とは何ですか？",
+            "JP_link":"https://www.bybit.com/ja-JP/help-center/HelpCenterKnowledge/bybitHC_Article?language=ja&id=000001135"
+        },
+        {"Sub": "Trading",
+            "desc": "Order",
+            "JP_detail": "メイカー注文とテイカー注文の違い",
+            "JP_link":"https://www.bybit.com/ja-JP/help-center/HelpCenterKnowledge/bybitHC_Article?language=ja&id=000001142"
+        },
+      
+        {"Sub": "Asset Exchange",
+            "desc": "Asset Exchange",
+            "JP_detail": "BYBITではXXX資産をXXXに変換する際に、方法が二つあります。\n（１）現物取引経由：\n    XXX資産を現物アカウントに保有して、XXXXXXの取引ペアで、XXX売りでUSDTに変換できます。取引手数料が０.１％になります。\n（２）デリバティブ交換経由：\n    ETH資産を先にデリバティブアカウントに振替して、その後資産交換機能を利用して、USDTに交換できます。\n資産交換手数料なしけれども、現物取引のレートと異なりますので、ご検討した上、手続きをお進めてください。",
+            "link":""
+        },
+        {"Sub": "Derivative",
+            "desc": "各取引所価格差異",
+            "JP_detail": "取引所の最終取引価格は、Bybitでの買い手と売り手の取引間からのみ構成されています。 すべての取引所は独自のトレーダー目線での機能が構築されており、利用されるトレーダー様によって取引所の取引価格に影響を与えます。 Bybitはピアツーピア取引所であるため、価格変動に干渉したり、影響を及ぼしたりすることはありません。 したがって、さまざまな取引所間によって市場価格の差異は一般的に起こりうる現象です。",
+            "EN_detail":"Please allow us to share with you that the platform's last traded price is strictly determined by the market forces solely created from the transaction between the buyer and seller in Bybit. All trading platforms have their own unique set of trader bases and this will create different sentiments which will affect the traded price on all exchanges uniquely. As Bybit is a Peer to Peer exchange, we do not interfere or have any influence over the price movements. Therefore, the differences seen in the various trading platforms are entirely within reasonable expectations."
+        },
+        {"Sub": "Derivative",
+            "desc": "損切りが成行注文",
+            "JP_detail": "損切り注文がトリガーされると、強制決済のリスクを防ぐためにポジションの決済を優先し、価格に関係なくすぐに注文の執行が開始されます。 したがって、損切りは価格滑りを防ぐことができる機能ではありません。 注文サイズが大きいほど、トリガー時点での取引板で利用可能な価格と量に応じて、より大きな価格の滑りがみられることがあります。"
+        },
+        
+        {"Sub": "Derivative",
+            "desc": "USDT強制決済",
+            "JP_detail": "強制決済とは、マーク価格がポジション欄に表示される強制決済価格に達すると、発生します。\n強制決済された注文は、取引履歴ページに表示されます。\n強制決済に関する詳細情報： https://www.bybit.com/data/contract-rules?type=usdt\n強制決済価格の計算：https://www.bybit.com/ja-JP/help-center/bybitHC_Article?language=ja&id=000001067\nBybitの強制決済プロセスについて： https://www.bybit.com/ja-JP/help-center/bybitHC_Article?language=ja&id=000001065"
+        },
+        {"Sub": "Derivative",
+            "desc": "インバース強制決済",
+            "JP_detail": "強制決済とは、マーク価格がポジション欄に表示される強制決済価格に達すると、発生します。\n強制決済された注文は、取引履歴ページに表示されます。\n強制決済に関する詳細情報： https://www.bybit.com/data/contract-rules\n強制決済価格の計算：https://www.bybit.com/ja-JP/help-center/bybitHC_Article?language=ja&id=000001100\nBybitの強制決済プロセスについて： https://www.bybit.com/ja-JP/help-center/bybitHC_Article?language=ja&id=000001098"
+        },
+       
+       
+        {"Sub": "Derivative",
+            "desc": "資産の交換",
+            "JP_detail": "資産の交換は二つ方法で交換できます。\n(1)現物アカウントにて現物取引を行います。保有している資産を先にUSDTまたはUSDCに両替して、その後、USDTまたUSDCで他の資産を購入します。現物取引は0.1％の取引手数料が発生します。\n(2)デリバティブアカウントに資産交換の機能が付いています。交換できるコインも限られていますので、お客様ご自身で確認ください。"
+        },
+        {"Sub": "Derivative",
+            "desc": "price Deviation",
+            "JP_detail": "",
+            "EN_detail":"Please allow us to share with you that the platform's last traded price is strictly determined by the market forces solely created from the transaction between the buyer and seller in Bybit. All trading platforms have their own unique set of trader bases and this will create different sentiments which will affect the traded price on all exchanges uniquely. As Bybit is a Peer to Peer exchange, we do not interfere or have any influence over the price movements. Therefore, the differences seen in the various trading platforms are entirely within reasonable expectations."
+        },
+        
+        {
+            "Sub": "API",
+            "desc": "API",
+            "JP_detail": "大変恐縮ですが、API に関するご質問については、当社の技術チームによりお客様にお答えする必要があります. 連絡先情報は、下のリンクの下部にあるコミュニティのところにあります。ご協力いただくようにお願いします。\nhttps://bybit-exchange.github.io/docs/ ",
+            "CN_detail":"很抱歉，由于在线客服对IT开发的知识储备有限，关于API的问题，需要我们的技术团队向您答疑\n您可以在下面的链接里面下方的Community的地方找到联系方式（Telegram）,感谢您的理解。\nhttps://bybit-exchange.github.io/docs/ \n\nhttps://t.me/BybitChineseAPI",
+            "EN_detail":"For API related inquiry, may need our technical team to answer and support you directly. You can find the contact information in the Community at the bottom part of the below link, \n https://bybit-exchange.github.io/docs/ \n\n\nhttps://t.me/BybitAPI \n\nApologise that live chat agent do not holding enough knowledge for API trading."
+        },
+       
+        {
+            "desc": "GSTUSDT delisting",
+            "JP_detail": "突然なお知らせで、申し訳ありません。\nhttps://blog.bybit.com/en-US/post/delisting-of-gstusdt-perpetual-contract-blta5d0d406be441910/\nGST USDTの無期限取引の上場廃止の詳細は上記のリンクにてご確認いただけます。英語のみになりますが、ご容赦ください。",
+            "JP_link": "",
+            "CN_detail": "。",
+            "CN_link": "",
+            "EN_detail": "Thank you for contacting Bybit live chat customer support. This is Zen, and it is my pleasure to assist you today.",
+            "EN_link": ""
+        },
+        {
+            "desc": "GSTUSDT settle",
+            "JP_detail": "上場廃止まで、ポジションをお持ちの場合、廃止時間まで最後30分の平均インデックス価格で精算されます。決済手数料はティカー手数料が発生します。\nGSTUSDTのインデックス価格が以下のリンクでご確認できます。\nhttps://www.bybit.com/data/basic/linear/index-price/spot-index?symbol=GSTUSDT",
+            "JP_link": "",
+            "CN_detail": "。",
+            "CN_link": "",
+            "EN_detail": "Thank you for contacting Bybit live chat customer support. This is Zen, and it is my pleasure to assist you today.",
+            "EN_link": ""
+        },
+        {
+            "Sub": "Spot",
+            "desc": "マージン取引",
+            "JP_detail": "pending",
+            "link":"https://www.bybit.com/ja-JP/help-center/bybitHC_Article?language=ja&id=000001618"
+        },
+        {"Sub": "Spot",
+            "desc": "グリッド取引",
+            "JP_detail": "pending",
+            "link":"https://www.bybit.com/ja-JP/help-center/bybitHC_Article?language=ja&id=000001673"
+        }
+    
+     
+    ]
+}
