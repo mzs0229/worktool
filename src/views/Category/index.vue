@@ -1,5 +1,5 @@
 <template>
-    <div>juset a stest</div>
+    <div>Category</div>
 </template>
 
 <!-- <script>

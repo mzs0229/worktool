@@ -3,22 +3,27 @@
 // vueUse
 import { useScroll } from '@vueuse/core'
 import {useFunctionStore} from '@/stores/function'
+import { onMounted } from 'vue'
 const { y } = useScroll(window)
 
 const functionStore = useFunctionStore()
-
+// onMounted(()=>{
+//   console.log("test",y)
+// })
 </script>
 
 <template>
-  <div class="app-header-sticky" :class="{ show: y > 78 }">
+  <!-- <div class="app-header-sticky" :class="{ show: y > 78 }"> -->
+    <div class="app-header-sticky show">
+    {{ y }}
     <div class="container">
       <RouterLink class="logo" to="/" />
 
       <ul class="app-header-nav">
         <li class="home" v-for="item in functionStore.functionList" :key="item.id">
-          <RouterLink to="/">{{ item.name }}</RouterLink>
+          <RouterLink :to="`/${item.name}`">{{ item.name }}</RouterLink>
         </li>
-        
+        {{ y }}
       </ul>
       <!-- 导航区域 -->
 
@@ -33,9 +38,11 @@ const functionStore = useFunctionStore()
 
 
 <style scoped lang='scss'>
+
+
 .app-header-sticky {
   width: 100%;
-  height: 80px;
+  height: 60px;
   position: fixed;
   left: 0;
   top: 0;
@@ -61,17 +68,26 @@ const functionStore = useFunctionStore()
 
   .logo {
     width: 200px;
-    height: 80px;
+    height: 60px;
     background: url("@/assets/images/logo.png") no-repeat right 2px;
-    background-size: 160px auto;
+    background-size: 150px auto;
   }
   .app-header-nav {
-    width: 520px;
+    width: 820px;
     display: flex;
-    padding-left: 40px;
+    padding-left: 30px;
     position: relative;
     z-index: 998;
   }
+
+  li {
+    width: 50px;
+    &:hover {
+        color:red;
+      }
+
+  }
+
   .right {
     width: 220px;
     display: flex;
@@ -80,14 +96,14 @@ const functionStore = useFunctionStore()
     border-left: 2px solid $xtxColor;
 
     a {
-      width: 38px;
-      margin-right: 40px;
+      width: 60px;
+      margin-right: 60px;
       font-size: 16px;
-      line-height: 1;
+      line-height: 2;
 
-      &:hover {
-        color: $xtxColor;
-      }
+      // &:hover {
+      //   color: $xtxColor;
+      // }
     }
   }
 }

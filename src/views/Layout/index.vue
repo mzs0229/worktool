@@ -18,19 +18,22 @@ import LayoutFixed from "./components/LayoutFixed.vue"
 
 
 import { useFunctionStore } from "../../stores/function"
-import {onMounted} from "vue"
+import { onMounted } from "vue"
 
 const functionStore = useFunctionStore()
-onMounted(()=> functionStore.getFunction())
+onMounted(() => functionStore.getFunction())
 
 
 </script>
 
 
 <template>
-    <LayoutFixed />
-    <LayoutNav />
-    <LayoutHeader />
-    <RouterView />
-    <LayoutFooter />
+    <div>
+        <LayoutFixed />
+        <!-- <LayoutNav /> -->
+        <LayoutHeader />
+        <RouterView />
+        <!-- <LayoutFooter /> -->
+    </div>
+
 </template>

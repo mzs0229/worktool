@@ -1,4 +1,4 @@
 <template>
 我是主页
-    <div style="height: 1200px"></div>
+    <div style="height: 500px"></div>
 </template>

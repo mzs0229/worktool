@@ -4,6 +4,10 @@ import { createRouter, createWebHistory } from 'vue-router'
 import Login from '@/views/Login/index.vue'
 import Layout from '@/views/Layout/index.vue'
 import Home from '@/views/Home/index.vue'
+import Chat from '@/views/Chat/index.vue'
+import Mail from '@/views/Mail/index.vue'
+import Link from '@/views/Link/index.vue'
+import Other from '@/views/Other/index.vue'
 import Category from '@/views/Category/index.vue'
 
 const router = createRouter({
@@ -15,8 +19,20 @@ const router = createRouter({
 
       children:[
         {
-          path: '',
-          component: Home
+          path: '/chat',
+          component: Chat
+        },
+        {
+          path: '/mail',
+          component: Mail
+        },
+        {
+          path: '/link',
+          component: Link
+        },
+        {
+          path: '/other',
+          component: Other
         },
         {
           path: 'category',
