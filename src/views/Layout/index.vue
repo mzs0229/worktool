@@ -15,6 +15,7 @@ import LayoutHeader from "./components/LayoutHeader.vue";
 import LayoutNav from "./components/LayoutNav.vue";
 import LayoutFooter from "./components/LayoutFooter.vue"
 import LayoutFixed from "./components/LayoutFixed.vue"
+import Test from "./components/Test.vue"
 
 
 import { useFunctionStore } from "../../stores/function"
@@ -29,7 +30,8 @@ onMounted(() => functionStore.getFunction())
 
 <template>
     <div>
-        <LayoutFixed />
+        <!-- <Test /> -->
+        <!-- <LayoutFixed /> -->
         <!-- <LayoutNav /> -->
         <LayoutHeader />
         <RouterView />

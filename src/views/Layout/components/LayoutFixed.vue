@@ -3,17 +3,20 @@
 // vueUse
 import { useScroll } from '@vueuse/core'
 import {useFunctionStore} from '@/stores/function'
-import { onMounted } from 'vue'
+import { onMounted} from 'vue'
+
+
 const { y } = useScroll(window)
 
 const functionStore = useFunctionStore()
-// onMounted(()=>{
-//   console.log("test",y)
-// })
+onMounted(()=>{
+  console.log(y)
+  console.log(window)
+})
 </script>
 
 <template>
-  <!-- <div class="app-header-sticky" :class="{ show: y > 78 }"> -->
+  <!-- <div class="app-header-sticky" :class="{ show: y > 20 }"> -->
     <div class="app-header-sticky show">
     {{ y }}
     <div class="container">
@@ -25,13 +28,7 @@ const functionStore = useFunctionStore()
         </li>
         {{ y }}
       </ul>
-      <!-- 导航区域 -->
 
-      <!-- <LayoutHeaderUl /> -->
-      <div class="right">
-        <RouterLink to="/">品牌</RouterLink>
-        <RouterLink to="/">专题</RouterLink>
-      </div>
     </div>
   </div>
 </template>
@@ -69,7 +66,7 @@ const functionStore = useFunctionStore()
   .logo {
     width: 200px;
     height: 60px;
-    background: url("@/assets/images/logo.png") no-repeat right 2px;
+    background: url("@/assets/images/bybit.png") no-repeat right 2px;
     background-size: 150px auto;
   }
   .app-header-nav {
@@ -101,9 +98,9 @@ const functionStore = useFunctionStore()
       font-size: 16px;
       line-height: 2;
 
-      // &:hover {
-      //   color: $xtxColor;
-      // }
+      &:hover {
+        color: $xtxColor;
+      }
     }
   }
 }

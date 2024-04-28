@@ -1,0 +1,19 @@
+{
+    "category": "account",
+    "content": [
+        {
+           
+            "desc": " Change mail",
+            "JP_link": "https://www.bybit.com/ja-JP/help-center/article/How-to-Change-Unlink-Your-Registered-Email-Address",
+            "CN_link": "https://www.bybit.com/zh-MY/help-center/article/How-to-Change-Unlink-Your-Registered-Email-Address",
+            "EN_link": "https://www.bybit.com/en/help-center/article/How-to-Change-Unlink-Your-Registered-Email-Address"
+        },
+        {
+           
+            "desc": " Change mail",
+            "JP_link": "https://www.bybit.com/ja-JP/help-center/article/How-to-change-bind-your-mobile-number",
+            "CN_link": "https://www.bybit.com/zh-MY/help-center/article/How-to-change-bind-your-mobile-number",
+            "EN_link": "https://www.bybit.com/en/help-center/article/How-to-change-bind-your-mobile-number"
+        }
+    ]
+}

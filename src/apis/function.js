@@ -7,5 +7,5 @@ export function getFunctionAPI(){
 
 
 export function getCategoryAPI(){
-    return axiosGetData("../src/assets/data/category.json")
+    return axiosGetData("../src/assets/data/chat/category.json")
 }

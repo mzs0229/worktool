@@ -1,0 +1,33 @@
+{
+    "code":0,
+    "category":
+    [
+        {
+            "name":"Account"
+        },
+        {
+            "name":"KYC"
+        },
+        {
+            "name":"Trading"
+        },
+        {
+            "name":"Earn"
+        },
+        {
+            "name":"WEB3"
+        },
+        {
+            "name":"BYBIT Card"
+        },
+        {
+            "name":"P2P"
+        },
+        {
+            "name":"common"
+        }
+      
+       
+    ],
+    "message":"OK"  
+}
